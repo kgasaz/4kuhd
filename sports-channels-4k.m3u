@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://m3u4u.com/epg/4z2xnj1ke2hdx2zdyv15"
+#EXTM3U x-tvg-url="http://m3u4u.com/m3u/476rnmzjm7t2z4rdyekg"
 #EXTM3U - Report broken links: kgasaz@gmail.com
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="Sports",SkySportsMainEvent
 https://7pal.short.gy/SSMEuhd
@@ -10,7 +10,7 @@ https://7pal.short.gy/bein-uhd
 https://7pal.short.gy/nowsport4k
 #EXTINF:-1 tvg-id="HubPremier2.sg" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png" group-title="Sports",HUB Premier2
 https://7pal.short.gy/HubP2uhd
-#EXTINF:-1 tvg-id="Vsportuhd" tvg-logo="https://i.imgur.com/J2dnfBZ.png" group-title="Sports",V SportUltraHD
+#EXTINF:-1 tvg-id="VSportUltra.se" tvg-logo="https://i.imgur.com/J2dnfBZ.png" group-title="Sports",V SportUltraHD
 https://7pal.short.gy/VSportUHD
 #EXTINF:-1 tvg-id="BTSportUHD4K.uk" tvg-logo="https://i.imgur.com/LIWHOdV.png" group-title="Sports",BTSportUltimate
 https://7pal.short.gy/BTUltimate
