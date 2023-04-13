@@ -1,13 +1,13 @@
 #EXTM3U x-tvg-url="http://m3u4u.com/epg/4z2xnj1ke2hdx2zdyv15"
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="Sports",SkySportsMainEvent
 https://7pal.short.gy/SSMEuhd
-#EXTINF:-1 tvg-id="AstroUHD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png" group-title="Sports",ASTROSUPERSPORT
+#EXTINF:-1 tvg-id="AstroUHD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png" group-title="Sports",AstroSuperSport
 https://7pal.short.gy/astrouhd
 #EXTINF:-1 tvg-id="beIN4K.qa" tvg-logo="https://www.universfreebox.com/wp-content/uploads/2022/11/beinsport4k-800x450-c-default.jpg" group-title="Sports",beIN
 https://7pal.short.gy/bein-uhd
-#EXTINF:-1 tvg-id="nowSports4K1" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_170_122" group-title="Sports",Now Sports
+#EXTINF:-1 tvg-id="nowSports4K1" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_170_122" group-title="Sports",NowSports
 https://7pal.short.gy/nowsport4k
-#EXTINF:-1 tvg-id="HubPremier2.sg" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png" group-title="Sports",HUB Premier2
+#EXTINF:-1 tvg-id="HubPremier2.sg" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png" group-title="Sports",HUBPremier2
 https://7pal.short.gy/HubP2uhd
 #EXTINF:-1 tvg-id="VSportUltra.se" tvg-logo="https://i.imgur.com/J2dnfBZ.png" group-title="Sports",V SportUltraHD
 https://7pal.short.gy/VSportUHD
@@ -15,5 +15,5 @@ https://7pal.short.gy/VSportUHD
 https://7pal.short.gy/BTUltimate
 #EXTINF:-1 tvg-id="Skysportuhd.de" tvg-logo="https://i.imgur.com/GjCWhmb.png" group-title="Sports",SkySportUHD(DE)
 https://7pal.short.gy/SkysportUHD-DE
-#EXTINF:-1 tvg-id="digi4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg" group-title="Sports",Digi4K
+#EXTINF:-1 tvg-id="digi4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg" group-title="Sports",Digi
 https://7pal.short.gy/digi4k
