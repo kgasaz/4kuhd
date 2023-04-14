@@ -19,5 +19,7 @@ https://7pal.short.gy/VSportUHD
 https://7pal.short.gy/BTUltimate
 #EXTINF:-1 tvg-id="Skysportuhd.de" tvg-logo="https://i.imgur.com/GjCWhmb.png" group-title="Sports",SkySportUHD(DE-LiveEvent)
 https://7pal.short.gy/SkysportUHD-DE
+#EXTINF:-1 tvg-id="SkysportBundesliga.de" tvg-logo="https://i.imgur.com/gttWJNb.png" group-title="Sports",SkySportBundesligaUHD(DE-LiveEvent)
+https://7pal.short.gy/SkysportBdlgUHD
 #EXTINF:-1 tvg-id="digi4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg" group-title="Sports",Digi
 https://7pal.short.gy/digi4k
