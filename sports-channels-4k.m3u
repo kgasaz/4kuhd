@@ -1,6 +1,7 @@
 #EXTM3U x-tvg-url="http://m3u4u.com/epg/4z2xnj1ke2hdx2zdyv15"
 #EXTM3U contact / lien he via Telegram: https://t.me/alexdang86
-#EXTINF:-1 tvg-id="thongbao" tvg-logo="https://i.imgur.com/7dqxWmM.png" group-title="Sports",Intro
+
+#EXTINF:-1 tvg-id="thongbao" tvg-logo="https://i.imgur.com/3XIe0au.png" group-title="Sports",Intro
 https://7pal.short.gy/intro
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://i.imgur.com/IlhdioT.png" group-title="Sports",SkySportsMainEvent
 https://7pal.short.gy/SSMEuhd
