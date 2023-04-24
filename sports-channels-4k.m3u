@@ -3,11 +3,11 @@
 
 #EXTINF:-1 tvg-id="thongbao" tvg-logo="https://i.imgur.com/3XIe0au.png" group-title="Sports",Intro
 https://7pal.short.gy/intro
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="Sports",SkySportsMainEvent
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="Sports",SkySportsMainEvent
 https://7pal.short.gy/SSMEuhd
-#EXTINF:-1 tvg-id="AstroUHD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png" group-title="Sports",AstroSuperSport
+#EXTINF:-1 tvg-id="Astro.SuperSport.UHD.1.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png" group-title="Sports",AstroSuperSport
 https://7pal.short.gy/astrouhd
-#EXTINF:-1 tvg-id="beIN4K.qa" tvg-logo="https://www.universfreebox.com/wp-content/uploads/2022/11/beinsport4k-800x450-c-default.jpg" group-title="Sports",beIN
+#EXTINF:-1 tvg-id="4k_DIGITAL_Mono.AR.bein" tvg-logo="https://www.universfreebox.com/wp-content/uploads/2022/11/beinsport4k-800x450-c-default.jpg" group-title="Sports",beIN
 https://7pal.short.gy/bein-uhd
 #EXTINF:-1 tvg-id="中國.-.Now.Sports.4K.1.hk" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_170_122" group-title="Sports",NowSports
 https://7pal.short.gy/nowsport4k
@@ -15,7 +15,7 @@ https://7pal.short.gy/nowsport4k
 https://7pal.short.gy/HubP2uhd
 #EXTINF:-1 tvg-id="V.sport.ULTRA.HD.fi" tvg-logo="https://i.imgur.com/J2dnfBZ.png" group-title="Sports",V SportUltraHD
 https://7pal.short.gy/VSportUHD
-#EXTINF:-1 tvg-id="BTSportUHD4K.uk" tvg-logo="https://i.imgur.com/LIWHOdV.png" group-title="Sports",BTSportUltimate
+#EXTINF:-1 tvg-id="BT.Sport.Ultimate.uk" tvg-logo="https://i.imgur.com/LIWHOdV.png" group-title="Sports",BTSportUltimate
 https://7pal.short.gy/BTUltimate
 #EXTINF:-1 tvg-id="Skysportuhd.de" tvg-logo="https://i.imgur.com/GjCWhmb.png" group-title="Sports",SkySportUHD(DE-LiveEvent)
 https://7pal.short.gy/SkysportUHD-DE
@@ -23,5 +23,5 @@ https://7pal.short.gy/SkysportUHD-DE
 https://7pal.short.gy/SkysportBdlgUHD
 #EXTINF:-1 tvg-id="digi4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg" group-title="Sports",Digi
 https://7pal.short.gy/digi4k
-#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg" group-title="Sports",SkySportsF1
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.imgur.com/9wrgXyy.png" group-title="Sports",SkySportsF1
 https://7pal.short.gy/SSF1uhd
