@@ -1,3 +1,6 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://7pal.short.gy/alex-epg" tvg-shift=0
+#EXTM3U contact / lien he via Telegram: https://t.me/alexdang86
 #EXTINF:-1 tvg-id="BT.Sport.2.HD.uk" tvg-logo="https://archive.org/download/BtSport2_201708/bt%20sport%202.png" group-title="Sports",BT Sport 2 FHD
 http://mrcs2.live:8080/Chriss-tv/h6sH8YtQfau9/556539
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.imgur.com/5yyYqji.png" group-title="Sports",Sky Sport F1 FHD
+http://mrcs2.live:8080/Chriss-tv/h6sH8YtQfau9/556520
