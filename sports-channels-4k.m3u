@@ -17,13 +17,11 @@ https://7pal.short.gy/HubP2uhd
 https://7pal.short.gy/VSportUHD
 #EXTINF:-1 tvg-id="BT.Sport.Ultimate.uk" tvg-logo="https://i.imgur.com/LIWHOdV.png" group-title="Sports",BTSportUltimate
 https://7pal.short.gy/BTUltimate
-#EXTINF:-1 tvg-id="Skysportuhd.de" tvg-logo="https://i.imgur.com/GjCWhmb.png" group-title="Sports",SkySportUHD(DE-LiveEvent)
-https://7pal.short.gy/SkysportUHD-DE
-#EXTINF:-1 tvg-id="SkysportBundesliga.de" tvg-logo="https://i.imgur.com/gttWJNb.png" group-title="Sports",SkySportBundesligaUHD(DE-LiveEvent)
-https://7pal.short.gy/SkysportBdlgUHD
 #EXTINF:-1 tvg-id="Digi.4K.ro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg" group-title="Sports",Digi
 https://7pal.short.gy/digi4k
 #EXTINF:-1 tvg-id="Eleven.Sports.1.4K.pl" tvg-logo="https://broccoli.tvchannellists.com/images/f/f9/Eleven_Sports_1.png" group-title="Sports",ElevenSport1
 https://7pal.short.gy/11sports1
+#EXTINF:-1 tvg-id="5SPORT.4K.[Sport.5.4K].il" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sport5_Logo.png" group-title="Sports",5Sport
+https://7pal.short.gy/5sport
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.imgur.com/9wrgXyy.png" group-title="Sports",SkySportsF1
 https://7pal.short.gy/SSF1uhd
