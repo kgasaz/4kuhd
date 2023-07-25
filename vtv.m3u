@@ -32,12 +32,8 @@ https://code.vthanhtivi.pw/getlink/tv360/98/2.m3u8
 #-*--WOMEN WORLD CUP 2023-*--#
 #EXTINF:-1 tvg-id="quochoi" group-title="🏆| FIFA WOMEN WORLD CUP 2023" tvg-logo="https://cdn.hqth.me/logo/thumbs/93.png", Quốc Hội TV
 http://128.199.214.24/QHTV/mpegts
-#EXTINF:-1 tvg-id="quochoi" group-title="🏆| FIFA WOMEN WORLD CUP 2023" tvg-logo="https://cdn.hqth.me/logo/thumbs/93.png", Quốc Hội TV Dự phòng
-http://103.9.211.134:8080/QHTV/mpegts
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="🏆| FIFA WOMEN WORLD CUP 2023" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png", ON Sports News
 http://128.199.214.24/OSN/mpegts
-#EXTINF:-1 tvg-id="vtvcab18hd" group-title="🏆| FIFA WOMEN WORLD CUP 2023" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png", ON Sports News Dự phòng
-http://103.9.211.134:8080/OSN/mpegts
 #EXTINF:-1 tvg-id="vtc3hd" group-title="🏆| FIFA WOMEN WORLD CUP 2023" tvg-logo="https://cdn.hqth.me/logo/thumbs/34.png", VTC3 HD
 http://103.9.211.134:8080/vtc3/mpegts
 
