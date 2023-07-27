@@ -31,7 +31,7 @@ https://code.vthanhtivi.pw/getlink/tv360/98/2.m3u8
 
 #-*--WOMEN WORLD CUP 2023-*--#
 #EXTINF:-1 tvg-id="quochoi" group-title="🏆| FIFA WOMEN WORLD CUP 2023" tvg-logo="https://cdn.hqth.me/logo/thumbs/93.png", Quốc Hội TV
-http://128.199.214.24/QHTV/mpegts
+https://live-ali2.tv360.vn/manifest/HTV_The_Thao_HD-50fps/playlist_HTV-TheThao-HD-50fps-1080-65M.m3u8
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="🏆| FIFA WOMEN WORLD CUP 2023" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png", ON Sports News
 http://128.199.214.24/OSN/mpegts
 #EXTINF:-1 tvg-id="vtc3hd" group-title="🏆| FIFA WOMEN WORLD CUP 2023" tvg-logo="https://cdn.hqth.me/logo/thumbs/34.png", VTC3 HD
