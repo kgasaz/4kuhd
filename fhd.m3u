@@ -2,7 +2,7 @@
 #EXTM3U contact / lien he via Telegram: https://t.me/alexdang86
 #EXTINF:-1 tvg-id="BT.Sport.2.HD.uk" tvg-logo="https://archive.org/download/BtSport2_201708/bt%20sport%202.png" group-title="Sports",BT Sport 2 FHD
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:4B:B4:15&stream=2125&extension=ts&play_token=WriMu4urCq
-#EXTINF:-1 tvg-id="BT.Sport.2.HD.uk" tvg-logo="https://archive.org/download/BtSport2_201708/bt%20sport%202.png" group-title="Sports",BT Sport 2 FHD - Backup
+#EXTINF:-1 tvg-id="BT.Sport.2.HD.uk" tvg-logo="https://archive.org/download/BtSport2_201708/bt%20sport%202.png" group-title="Sports",BT Sport 2 FHD Backup
 http://2.onrev.xyz:80/SPIDER_Ag4OMQ/3MCwmsyeAB/171035
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.imgur.com/5yyYqji.png" group-title="Sports",Sky Sport F1 FHD
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:4B:B4:15&stream=2079&extension=ts&play_token=cbtRZq3581
