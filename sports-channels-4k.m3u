@@ -30,6 +30,8 @@ https://7pal.short.gy/5sport
 https://7pal.short.gy/SSF1uhd
 #EXTINF:-1 tvg-id="Ziggo.Sport.nl" tvg-logo="https://i.imgur.com/N7K865M.png" group-title="Sports",ZiggoSportUHD
 https://7pal.short.gy/ZiggoSport
+#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.UHD.de" tvg-logo="https://i.imgur.com/wgvrku8.png" group-title="Sports",SkySport_BundesligaUHD-DE
+https://7pal.short.gy/ssblgde
 #EXTINF:-1 tvg-id="EUROSPORT.4K.eurosport" tvg-logo="https://www.avcesar.com/source/actualites/00/00/86/99/comment-regarder-les-jeux-olympiques-tokyo-2020-en-ultra-hd-4k_07130411.jpg" group-title="Sports",EuroSport4K / Testing / Thử nghiệm
 https://7pal.short.gy/eusport4k
 #EXTINF:-1 tvg-id="BT.Sport.1.HD.uk" tvg-logo="https://media.info/l/o/1/1539.1690027797.png" group-title="Sports", TNTSports1-FHD
