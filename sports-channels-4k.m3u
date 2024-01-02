@@ -32,10 +32,12 @@ https://7pal.short.gy/SSF1uhd
 https://7pal.short.gy/ZiggoSport
 #EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.UHD.de" tvg-logo="https://i.imgur.com/wgvrku8.png" group-title="Sports",SkySport_BundesligaUHD-DE
 https://7pal.short.gy/ssblgde
-#EXTINF:-1 tvg-id="EUROSPORT.4K.eurosport" tvg-logo="https://i.imgur.com/APE7FAm.jpg" group-title="Sports",EuroSport4K / Testing 
+#EXTINF:-1 tvg-id="EUROSPORT.4K.eurosport" tvg-logo="https://i.imgur.com/APE7FAm.jpg" group-title="Sports",EuroSport4K 
 https://7pal.short.gy/eusport4k
-#EXTINF:-1 tvg-id="CosmoteSportUHD" tvg-logo="https://i.imgur.com/0Dyf2Sr.png" group-title="Sports",CosmoteSportUHD4K / Testing 
+#EXTINF:-1 tvg-id="CosmoteSportUHD" tvg-logo="https://i.imgur.com/0Dyf2Sr.png" group-title="Sports",CosmoteSportUHD4K 
 https://7pal.short.gy/csmtesuhd
+#EXTINF:-1 tvg-id="M..LaLiga.UHD.es" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGUH.png" group-title="Sports",M+LaLigaUHD.es
+https://7pal.short.gy/mplusuhd
 #EXTINF:-1 tvg-id="BT.Sport.1.HD.uk" tvg-logo="https://media.info/l/o/1/1539.1690027797.png" group-title="Sports", TNTSports1-FHD
 https://7pal.short.gy/tntspts1
 #EXTINF:-1 tvg-id="BT.Sport.2.HD.uk" tvg-logo="https://media.info/l/o/1/1540.1690027877.png" group-title="Sports", TNTSports2-FHD
