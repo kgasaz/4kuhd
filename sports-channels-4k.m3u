@@ -6,31 +6,31 @@
 https://7pal.short.gy/intro
 #EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="Sports",SkySportsMainEventUHD
 https://7pal.short.gy/SSMEuhd
-#EXTINF:-1 tvg-id="SkySportsUHD" tvg-logo="https://static.skyassets.com/contentstack/assets/bltdc2476c7b6b194dd/bltf067295452c6f475/5f5f463021ecf947895d945a/Sky_Sports_Logo_September_2020.jpg" group-title="Sports",SkySportsUHD
+#EXTINF:-1 tvg-id="SkySportsUHD" tvg-logo="https://i.imgur.com/XYGz8Xe.png" group-title="Sports",SkySportsUHD1
 https://7pal.short.gy/skysptUHD1
-#EXTINF:-1 tvg-id="Astro.SuperSport.UHD.1.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png" group-title="Sports",AstroSuperSportUHD
+#EXTINF:-1 tvg-id="Astro.SuperSport.UHD.1.my" tvg-logo="https://i.imgur.com/LIxOI3U.png" group-title="Sports",AstroSuperSportUHD
 https://7pal.short.gy/astrouhd
-#EXTINF:-1 tvg-id="4k_DIGITAL_Mono_EN.bein" tvg-logo="https://www.universfreebox.com/wp-content/uploads/2022/11/beinsport4k-800x450-c-default.jpg" group-title="Sports",beINUHD
+#EXTINF:-1 tvg-id="4k_DIGITAL_Mono_EN.bein" tvg-logo="https://i.imgur.com/ZYpUQ3w.png" group-title="Sports",beINUHD
 https://7pal.short.gy/bein-uhd
-#EXTINF:-1 tvg-id="English.-.Now.Sports.4K.1.hk" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_170_122" group-title="Sports",NowSportsUHD
+#EXTINF:-1 tvg-id="English.-.Now.Sports.4K.1.hk" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png" group-title="Sports",NowSportsUHD
 https://7pal.short.gy/nowsport4k
 #EXTINF:-1 tvg-id="Hub.Premier.2.(HD).sg" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png" group-title="Sports",HUBPremier2UHD
 https://7pal.short.gy/HubP2uhd
-#EXTINF:-1 tvg-id="V.sport.ULTRA.HD.fi" tvg-logo="https://i.imgur.com/J2dnfBZ.png" group-title="Sports",V SportUltraHD
+#EXTINF:-1 tvg-id="V.sport.ULTRA.HD.fi" tvg-logo="https://i.imgur.com/J2dnfBZ.png" group-title="Sports",VSportUltraHD
 https://7pal.short.gy/VSportUHD
 #EXTINF:-1 tvg-id="BT.Sport.Ultimate.uk" tvg-logo="https://media.info/l/o/5/5824.1689874022.png" group-title="Sports",TNTSportUltimate
 https://7pal.short.gy/TNTUltimate
-#EXTINF:-1 tvg-id="Digi.4K.ro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg" group-title="Sports",DigiUHD
+#EXTINF:-1 tvg-id="Digi.4K.ro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg" group-title="Sports",Digi4K
 https://7pal.short.gy/digi4k
-#EXTINF:-1 tvg-id="Eleven.Sports.1.4K.pl" tvg-logo="https://i.imgur.com/PUaJPaE.png" group-title="Sports",ElevenSport1UHD
+#EXTINF:-1 tvg-id="Eleven.Sports.1.4K.pl" tvg-logo="https://i.imgur.com/PUaJPaE.png" group-title="Sports",ElevenSport1-4K
 https://7pal.short.gy/11sports1
-#EXTINF:-1 tvg-id="5SPORT.4K.[Sport.5.4K].il" tvg-logo="https://i.imgur.com/EPIy6eZ.png" group-title="Sports",5SportUHD
+#EXTINF:-1 tvg-id="5SPORT.4K.[Sport.5.4K].il" tvg-logo="https://i.imgur.com/EPIy6eZ.png" group-title="Sports",5Sport4K
 https://7pal.short.gy/5sport
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.imgur.com/9wrgXyy.png" group-title="Sports",SkySportsF1UHD
 https://7pal.short.gy/SSF1uhd
 #EXTINF:-1 tvg-id="Ziggo.Sport.nl" tvg-logo="https://i.imgur.com/N7K865M.png" group-title="Sports",ZiggoSportUHD
 https://7pal.short.gy/ZiggoSport
-#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.UHD.de" tvg-logo="https://i.imgur.com/wgvrku8.png" group-title="Sports",SkySport_BundesligaUHD-DE
+#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.UHD.de" tvg-logo="https://i.imgur.com/wgvrku8.png" group-title="Sports",SkySport_BundesligaUHD.de
 https://7pal.short.gy/ssblgde
 #EXTINF:-1 tvg-id="Eurosport.4K.ro" tvg-logo="https://i.imgur.com/APE7FAm.jpg" group-title="Sports",EuroSport4K 
 https://7pal.short.gy/eusport4k
@@ -60,7 +60,7 @@ https://7pal.short.gy/HPremier1
 https://7pal.short.gy/HPremier2
 #EXTINF:-1 tvg-id="Hub.Premier.3.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png" group-title="Sports", HubPremier3-FHD
 https://7pal.short.gy/HPremier3
-#EXTINF:-1 tvg-id="USA.Network.HDTV.(East).(USAHD).us" tvg-logo="https://i.pinimg.com/originals/3a/6e/f2/3a6ef23a9908ceb32469f8ad2c2ba44f.jpg" group-title="Sports", USA_NetWork-FHD
+#EXTINF:-1 tvg-id="USA.Network.HDTV.(East).(USAHD).us" tvg-logo="https://i.imgur.com/PD1qeRO.jpg" group-title="Sports", USA_NetWork-FHD
 https://7pal.short.gy/usanetwork
 #EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.1.hk" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="Sports", NowSportsPL1-FHD
 https://7pal.short.gy/nowhkp1
