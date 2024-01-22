@@ -66,8 +66,16 @@ https://7pal.short.gy/usanetwork
 https://7pal.short.gy/nowhkp1
 #EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.2.hk" tvg-logo="https://www.nowtv.now.com/media/logo/622-wbg-e.png" group-title="Sports", NowSportsPL2-FHD
 https://7pal.short.gy/nowhkp2
-#EXTINF:-1 tvg-id="SKY.Sport.8.nz" tvg-logo="https://i.imgur.com/SuOs0WW.png" group-title="Sports", SkySport8-PremierLeague-NZ
+#EXTINF:-1 tvg-id="SKY.Sport.8.nz" tvg-logo="" group-title="Sports", SkySport8-PremierLeague_NZ-FHD
 https://7pal.short.gy/skyspt8nz
+#EXTINF:-1 tvg-id="Astro.SuperSport.HD.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="Sports", Astro_Supersport1_MY-FHD
+https://7pal.short.gy/astross1
+#EXTINF:-1 tvg-id="Astro.SuperSport.2.HD.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" group-title="Sports", Astro_Supersport2_MY-FHD
+https://7pal.short.gy/astross2
+#EXTINF:-1 tvg-id="Astro.SuperSport.3.HD.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png" group-title="Sports", Astro_Supersport3_MY-FHD
+https://7pal.short.gy/astross3
+#EXTINF:-1 tvg-id="Astro.SuperSport.4.HD.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png" group-title="Sports", Astro_Supersport4_MY-FHD
+https://7pal.short.gy/astross4
 #EXTINF:-1 tvg-id="Premier.Sports.1.HD.ie" tvg-logo="https://i.imgur.com/YqTCkGk.png" group-title="Sports", PremierSports1-FHD
 https://7pal.short.gy/prsport1
 #EXTINF:-1 tvg-id="Premier.Sports.2.HD.ie" tvg-logo="https://i.imgur.com/RenHhOi.png" group-title="Sports", PremierSports2-FHD
