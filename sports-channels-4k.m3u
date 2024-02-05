@@ -44,6 +44,8 @@ https://7pal.short.gy/tntspts1
 https://7pal.short.gy/tntspts2
 #EXTINF:-1 tvg-id="BT.Sport.3.HD.uk" tvg-logo="https://media.info/l/o/5/5712.1690027954.png" group-title="Sports", TNTSports3-FHD
 https://7pal.short.gy/tntspts3
+#EXTINF:-1 tvg-id="BT.Sport.4.HD.uk" tvg-logo="https://media.info/l/o/1/1491.1690027975.png" group-title="Sports", TNTSports4-FHD
+https://7pal.short.gy/tntspts4
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://i.imgur.com/mnAYZiQ.png" group-title="Sports", SkySportsMainEvent-FHD
 https://7pal.short.gy/SkSpMainE
 #EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://i.imgur.com/dUAIbXN.png" group-title="Sports", SkySportsPL-FHD
