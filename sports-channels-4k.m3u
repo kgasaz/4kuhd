@@ -98,6 +98,8 @@ https://7pal.short.gy/tennisc
 https://7pal.short.gy/prsport1
 #EXTINF:-1 tvg-id="Premier.Sports.2.HD.ie" tvg-logo="https://i.imgur.com/RenHhOi.png" group-title="Sports", PremierSports2-FHD
 https://7pal.short.gy/prsport2
+#EXTINF:-1 tvg-id="CBS.Sports.Network.HDTV.(CBSSD).us" tvg-logo="https://i.imgur.com/uo7pHjF.png" group-title="Sports", CBS_Sport_Network-FHD
+https://7pal.short.gy/cbssptnw
 #EXTINF:-1 tvg-id="" tvg-logo="https://prod-media.beinsports.com/image/68741d735025657b96d8c7eb760d2e5c.128.png" group-title="Sports;AFC Asian Cup", BeIN3-Asian_Cup
 https://7pal.short.gy/event1
 #EXTINF:-1 tvg-id="" tvg-logo="https://prod-media.beinsports.com/image/e3d8ef07bcc06956c8067bbf37f07df8.128.png?ver=09-01-2024" group-title="Sports;AFC Asian Cup", BeIN1-Asian_Cup
