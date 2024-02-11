@@ -92,6 +92,10 @@ https://7pal.short.gy/spersppsl
 https://7pal.short.gy/sperspmts
 #EXTINF:-1 tvg-id="ACTION.za" tvg-logo="https://images.supersport.com/media/krybzs0y/action-1.png" group-title="Sports", Supersport_Action-FHD
 https://7pal.short.gy/sperspat
+#EXTINF:-1 tvg-id="RUGBY.za" tvg-logo="https://images.supersport.com/media/ngeluwwy/rugby-5.png" group-title="Sports", Supersport_Rugby-FHD
+https://7pal.short.gy/spersprb
+#EXTINF:-1 tvg-id="GOLF.za" tvg-logo="https://i.imgur.com/YtTDeWW.jpg" group-title="Sports", Supersport_Golf-FHD
+https://7pal.short.gy/sperspgf
 #EXTINF:-1 tvg-id="TENNIS.za" tvg-logo="https://archive.org/download/supersport-tennis/supersport-tennis.png" group-title="Sports", Supersport_Tennis-FHD
 https://7pal.short.gy/spersptns
 #EXTINF:-1 tvg-id="Tennis.Channel.HDTV.(TNNSHD).us" tvg-logo="https://marketingpartnerships.com/assets/companies/comp_12252_hero.jpg" group-title="Sports", Tennis_Channel
