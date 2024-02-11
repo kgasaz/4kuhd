@@ -4,6 +4,10 @@
 
 #EXTINF:-1 tvg-id="thongbao" tvg-logo="https://i.imgur.com/3XIe0au.png" group-title="Sports",🌍 Intro 🌍
 https://7pal.short.gy/intro
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nwb9NUV.png" group-title="Events", Super Bowl LVIII - Francisco 49ers v Kansas City Chiefs - Event 1
+https://7pal.short.gy/event1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nwb9NUV.png" group-title="Events",  Super Bowl LVIII - Francisco 49ers v Kansas City Chiefss - Event 2
+https://7pal.short.gy/event2
 #EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="Sports",SkySports_MainEventUHD
 https://7pal.short.gy/SSMEuhd
 #EXTINF:-1 tvg-id="SkySportsUHD" tvg-logo="https://i.imgur.com/XYGz8Xe.png" group-title="Sports",SkySportsUHD1
@@ -106,9 +110,5 @@ https://7pal.short.gy/prsport1
 https://7pal.short.gy/prsport2
 #EXTINF:-1 tvg-id="CBS.Sports.Network.HDTV.(CBSSD).us" tvg-logo="https://i.imgur.com/uo7pHjF.png" group-title="Sports", CBS_Sport_Network-FHD
 https://7pal.short.gy/cbssptnw
-#EXTINF:-1 tvg-id="" tvg-logo="https://prod-media.beinsports.com/image/68741d735025657b96d8c7eb760d2e5c.128.png" group-title="Sports;AFC Asian Cup", BeIN3-Asian_Cup
-https://7pal.short.gy/event1
-#EXTINF:-1 tvg-id="" tvg-logo="https://prod-media.beinsports.com/image/e3d8ef07bcc06956c8067bbf37f07df8.128.png?ver=09-01-2024" group-title="Sports;AFC Asian Cup", BeIN1-Asian_Cup
-https://7pal.short.gy/event2
-#EXTINF:-1 tvg-id="VTV5.vn" tvg-logo="https://i.imgur.com/fuyFHDj.png" group-title="Sports;AFC Asian Cup", VTV-Asian_Cup
-https://7pal.short.gy/event3
+
+
