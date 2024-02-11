@@ -4,10 +4,12 @@
 
 #EXTINF:-1 tvg-id="thongbao" tvg-logo="https://i.imgur.com/3XIe0au.png" group-title="Sports",🌍 Intro 🌍
 https://7pal.short.gy/intro
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nwb9NUV.png" group-title="Events", Super Bowl LVIII - Francisco 49ers v Kansas City Chiefs - Event 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nwb9NUV.png" group-title="Events", UHD Super Bowl LVIII - Francisco 49ers v Kansas City Chiefs - Event 1
 https://7pal.short.gy/event1
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nwb9NUV.png" group-title="Events",  Super Bowl LVIII - Francisco 49ers v Kansas City Chiefss - Event 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nwb9NUV.png" group-title="Events", 4k Super Bowl LVIII - Francisco 49ers v Kansas City Chiefss - Event 2
 https://7pal.short.gy/event2
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nwb9NUV.png" group-title="Events", FHD Super Bowl LVIII - Francisco 49ers v Kansas City Chiefss - Event 3
+https://7pal.short.gy/event3
 #EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="Sports",SkySports_MainEventUHD
 https://7pal.short.gy/SSMEuhd
 #EXTINF:-1 tvg-id="SkySportsUHD" tvg-logo="https://i.imgur.com/XYGz8Xe.png" group-title="Sports",SkySportsUHD1
