@@ -106,10 +106,12 @@ https://7pal.short.gy/prsport2
 #EXTINF:-1 tvg-id="CBS.Sports.Network.HDTV.(CBSSD).us" tvg-logo="https://i.imgur.com/uo7pHjF.png" group-title="Sports", CBS_Sport_Network-FHD
 https://7pal.short.gy/cbssptnw
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6PJ4LO7.png" group-title="Events", Event 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6PJ4LO7.png" group-title="Events", Event 1 UHD - Copenhagen vs Man City - Feb 13 - 8PM UK TIME
 https://7pal.short.gy/event1
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6PJ4LO7.png" group-title="Events", Event 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6PJ4LO7.png" group-title="Events", Event 2 FHD - Copenhagen vs Man City - Feb 13 - 8PM UK TIME
 https://7pal.short.gy/event2
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6PJ4LO7.png" group-title="Events", Event 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6PJ4LO7.png" group-title="Events", Event 3 UHD - RB Leipzig vs Real Madrid  - Feb 13 - 8PM UK TIME
 https://7pal.short.gy/event3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6PJ4LO7.png" group-title="Events", Event 3 FHD - RB Leipzig vs Real Madrid  - Feb 13 - 8PM UK TIME
+https://7pal.short.gy/event4
 
