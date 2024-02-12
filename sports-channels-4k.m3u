@@ -1,15 +1,8 @@
 #EXTM3U x-tvg-url="https://7pal.short.gy/alex-epg" tvg-shift=0
-#EXTM3U add this link to any i.p.t.v players (recommend TiviMate and iMPlayer): https://bit.ly/sports4kuhd
+#EXTM3U add this link to any i.p.t.v players (recommend TiviMate and iMPlayer): https://bit.ly/sports4kuhd or https://7pal.short.gy/sports4kuhd
 #EXTM3U contact / lien he via Telegram: https://t.me/alexdang86
-
 #EXTINF:-1 tvg-id="thongbao" tvg-logo="https://i.imgur.com/3XIe0au.png" group-title="Sports",🌍 Intro 🌍
 https://7pal.short.gy/intro
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nwb9NUV.png" group-title="Events", UHD Super Bowl LVIII - Francisco 49ers v Kansas City Chiefs - Event 1
-https://7pal.short.gy/event1
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nwb9NUV.png" group-title="Events", 4k Super Bowl LVIII - Francisco 49ers v Kansas City Chiefss - Event 2
-https://7pal.short.gy/event2
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nwb9NUV.png" group-title="Events", FHD Super Bowl LVIII - Francisco 49ers v Kansas City Chiefss - Event 3
-https://7pal.short.gy/event3
 #EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="Sports",SkySports_MainEventUHD
 https://7pal.short.gy/SSMEuhd
 #EXTINF:-1 tvg-id="SkySportsUHD" tvg-logo="https://i.imgur.com/XYGz8Xe.png" group-title="Sports",SkySportsUHD1
@@ -113,4 +106,10 @@ https://7pal.short.gy/prsport2
 #EXTINF:-1 tvg-id="CBS.Sports.Network.HDTV.(CBSSD).us" tvg-logo="https://i.imgur.com/uo7pHjF.png" group-title="Sports", CBS_Sport_Network-FHD
 https://7pal.short.gy/cbssptnw
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nwb9NUV.png" group-title="Events", Event 1
+https://7pal.short.gy/event1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nwb9NUV.png" group-title="Events", Event 2
+https://7pal.short.gy/event2
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nwb9NUV.png" group-title="Events", Event 3
+https://7pal.short.gy/event3
 
