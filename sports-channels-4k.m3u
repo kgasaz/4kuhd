@@ -27,6 +27,8 @@ https://7pal.short.gy/11sports1
 https://7pal.short.gy/5sport
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.imgur.com/9wrgXyy.png" group-title="Sports",SkySportsF1UHD
 https://7pal.short.gy/SSF1uhd
+#EXTINF:-1 tvg-id="Ziggo.Sport.nl" tvg-logo="https://i.imgur.com/N7K865M.png" group-title="Sports",ZiggoSportUHD
+https://7pal.short.gy/ZiggoSport
 #EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.UHD.de" tvg-logo="https://i.imgur.com/wgvrku8.png" group-title="Sports",SkySport_BundesligaUHD.de
 https://7pal.short.gy/ssblgde
 #EXTINF:-1 tvg-id="Eurosport.4K.ro" tvg-logo="https://i.imgur.com/APE7FAm.jpg" group-title="Sports",EuroSport4K 
