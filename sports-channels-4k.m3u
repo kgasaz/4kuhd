@@ -5,11 +5,6 @@
 #EXTINF:-1 tvg-id="intro" tvg-logo="https://i.imgur.com/3XIe0au.png" group-title="Sports",🌍 Intro 🌍
 https://7pal.short.gy/intro
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6PJ4LO7.png" group-title="Events", Event 1 4k SUPER SUNDAY UK TIME MARCH 31
-https://7pal.short.gy/event1
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6PJ4LO7.png" group-title="Events", Event 2 4k SUPER SUNDAY UK TIME MARCH 31
-https://7pal.short.gy/event2
-
 #EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="Sports",SkySports_MainEventUHD
 https://7pal.short.gy/SSMEuhd
 #EXTINF:-1 tvg-id="Astro.SuperSport.UHD.1.my" tvg-logo="https://i.imgur.com/LIxOI3U.png" group-title="Sports",AstroSuperSportUHD
@@ -125,6 +120,10 @@ https://7pal.short.gy/nflnw
 #EXTINF:-1 tvg-id="ESPN.HDTV.(Dish).(ESPNHD).us" tvg-logo="https://variety.com/wp-content/uploads/2013/09/espn-logo.jpg" group-title="Sports", USA:ESPN-HD
 https://7pal.short.gy/espnus
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6PJ4LO7.png" group-title="Events", Event 1
+https://7pal.short.gy/event1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6PJ4LO7.png" group-title="Events", Event 2
+https://7pal.short.gy/event2
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6PJ4LO7.png" group-title="Events", Event 3
 https://7pal.short.gy/event3
