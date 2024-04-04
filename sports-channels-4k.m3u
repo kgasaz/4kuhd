@@ -123,6 +123,9 @@ https://7pal.short.gy/espnus
 https://7pal.short.gy/wwenw
 #EXTINF:-1 tvg-id="NBA.TV.HDTV.(NBA.HD).us" tvg-logo="https://i.imgur.com/qAT0jSA.png" group-title="Sports", USA:NBA_TV
 https://7pal.short.gy/nbatvus
+#EXTINF:-1 tvg-id="MLB.Network.HDTV.(DISH).(MLBHD).us" tvg-logo="https://i.imgur.com/ZGrahiw.png" group-title="Sports", USA:MLB_Network
+https://7pal.short.gy/mlbnw
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6PJ4LO7.png" group-title="Events", Event 1
 https://7pal.short.gy/event1
