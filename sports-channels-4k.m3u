@@ -130,6 +130,8 @@ https://7pal.short.gy/wwenw
 https://7pal.short.gy/nbatvus
 #EXTINF:-1 tvg-id="MLB.Network.HDTV.(DISH).(MLBHD).us" tvg-logo="https://i.imgur.com/ZGrahiw.png" group-title="Sports", USA:MLB_Network
 https://7pal.short.gy/mlbnw
+#EXTINF:-1 tvg-id="NHL.Network.US.HDTV.(NHLHD).us" tvg-logo="https://media.d3.nhle.com/image/private/t_ratio16_9-size50/prd/lhum6z3hyaga9ahnjow0.png" group-title="Sports", USA:NHL_Network
+https://7pal.short.gy/nhlnw
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6PJ4LO7.png" group-title="Events", Event 3
 https://7pal.short.gy/event3
