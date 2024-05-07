@@ -4,6 +4,10 @@
 #EXTM3U Disclaimer: Links were collected by the bot on the internet like Google did. For legal issues, please contact appropriate media file owners/hosters.
 #EXTINF:-1 tvg-id="intro" tvg-logo="https://i.imgur.com/3XIe0au.png" group-title="Sports",🌍 Intro 🌍
 https://7pal.short.gy/intro
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Events", Event 1 4k Real Madrid v Bayern Munich 8PM UK Time
+https://7pal.short.gy/event1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Events", Event 2 4k Real Madrid v Bayern Munich 8PM UK Time
+https://7pal.short.gy/event2
 
 #EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="Sports",SkySports_MainEventUHD
 https://7pal.short.gy/SSMEuhd
