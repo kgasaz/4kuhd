@@ -131,6 +131,8 @@ https://7pal.short.gy/msgusa
 https://7pal.short.gy/nflnw
 #EXTINF:-1 tvg-id="ESPN.HDTV.(Dish).(ESPNHD).us" tvg-logo="https://variety.com/wp-content/uploads/2013/09/espn-logo.jpg" group-title="Sports", USA:ESPN-HD
 https://7pal.short.gy/espnus
+#EXTINF:-1 tvg-id="ESPN2.HDTV.(Dish).(ESPN2HD).us" tvg-logo="https://logowik.com/content/uploads/images/espn24510.jpg" group-title="Sports", USA:ESPN2-HD
+https://7pal.short.gy/espn2
 #EXTINF:-1 tvg-id="WWE.Network.us" tvg-logo="https://i.imgur.com/Nq4lPP4.png" group-title="Sports", USA:WWE_Network
 https://7pal.short.gy/wwenw
 #EXTINF:-1 tvg-id="NBA.TV.HDTV.(NBA.HD).us" tvg-logo="https://i.imgur.com/qAT0jSA.png" group-title="Sports", USA:NBA_TV
