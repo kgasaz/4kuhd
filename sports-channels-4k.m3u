@@ -141,8 +141,8 @@ https://7pal.short.gy/nbatvus
 https://7pal.short.gy/mlbnw
 #EXTINF:-1 tvg-id="NHL.Network.US.HDTV.(NHLHD).us" tvg-logo="https://media.d3.nhle.com/image/private/t_ratio16_9-size50/prd/lhum6z3hyaga9ahnjow0.png" group-title="Sports", USA:NHL_Network
 https://7pal.short.gy/nhlnw
-#EXTINF:-1 tvg-id="esr.us" tvg-logo="https://www.esrevolution.com/images/Logo2021_ESR_2Website1.png" group-title="Sports", USA:ESR_E-Sport
-https://7pal.short.gy/esrnetw
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2016/01/ufc-logo-new-red.png" group-title="Sports", USA:UFC_24/7
+https://7pal.short.gy/ufc247
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Events", Event 1
 https://7pal.short.gy/event1
