@@ -4,8 +4,10 @@
 #EXTM3U Disclaimer: Links were collected by the bot on the internet like Google did. For legal issues, please contact appropriate media file owners/hosters.
 #EXTINF:-1 tvg-id="intro" tvg-logo="https://i.imgur.com/3XIe0au.png" group-title="Sports",🌍 Intro 🌍
 https://7pal.short.gy/intro
-#EXTINF:-1 tvg-id="BBC.One.CI.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/1200px-BBC_One_logo_2021.svg.png" group-title="UEFA_EURO_2024",-EURO2024-BBC_One
+#EXTINF:-1 tvg-id="BBC.One.CI.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/1200px-BBC_One_logo_2021.svg.png" group-title="UEFA_EURO_2024",EURO2024-BBC_One
 https://7pal.short.gy/bbcone
+#EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-logo="https://i.imgur.com/deDmbo4.png" group-title="UEFA_EURO_2024",EURO2024-iTV1
+https://7pal.short.gy/itv1en
 
 #EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="Sports",SkySports_MainEventUHD
 https://7pal.short.gy/SSMEuhd
