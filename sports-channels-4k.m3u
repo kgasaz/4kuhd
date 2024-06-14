@@ -10,6 +10,8 @@ https://7pal.short.gy/bbcone
 https://7pal.short.gy/itv1en
 #EXTINF:-1 tvg-id="beIN_SPORTS_MAX1_DIGITAL_Mono.bein" tvg-logo="https://prod-media.beinsports.com/image/1113d7a76ffceca1bb350bfe145467c6.128.png" group-title="UEFA_EURO_2024",EURO2024-beIN_Sports_Max1
 https://7pal.short.gy/binmax1
+#EXTINF:-1 tvg-id="beIN_SPORTS_MAX2_DIGITAL_Mono_EN.bein" tvg-logo="https://prod-media.beinsports.com/image/a38b16173474ba8b1a95bcbc30d3b8a5.128.png" group-title="UEFA_EURO_2024",EURO2024-beIN_Sports_Max2
+https://7pal.short.gy/binmax2
 
 #EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="Sports",SkySports_MainEventUHD
 https://7pal.short.gy/SSMEuhd
