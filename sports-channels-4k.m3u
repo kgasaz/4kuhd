@@ -16,6 +16,8 @@ https://7pal.short.gy/binmax2
 https://7pal.short.gy/binmax3
 #EXTINF:-1 tvg-id="EPL.za" tvg-logo="https://images.supersport.com/media/yvuloxza/premier-league-1.png" group-title="UEFA_EURO_2024", EURO2024-Supersport_PL-FHD
 https://7pal.short.gy/spersppl
+#EXTINF:-1 tvg-id="The.Sports.Network.HDTV.(TSNHD).ca" tvg-logo="https://i.imgur.com/HsolYfq.png" group-title="UEFA_EURO_2024", EURO2024-TSN1-FHD
+https://7pal.short.gy/tsn1ca
 
 #EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="Sports",SkySports_MainEventUHD
 https://7pal.short.gy/SSMEuhd
