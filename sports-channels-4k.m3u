@@ -4,21 +4,6 @@
 #EXTM3U Disclaimer: Links were collected by the bot on the internet like Google did. For legal issues, please contact appropriate media file owners/hosters.
 #EXTINF:-1 tvg-id="intro" tvg-logo="https://i.imgur.com/3XIe0au.png" group-title="Sports",🌍 Intro 🌍
 https://7pal.short.gy/intro
-#EXTINF:-1 tvg-id="BBC.One.CI.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/1200px-BBC_One_logo_2021.svg.png" group-title="UEFA_EURO_2024",EURO2024-BBC_One
-https://7pal.short.gy/bbcone
-#EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-logo="https://i.imgur.com/deDmbo4.png" group-title="UEFA_EURO_2024",EURO2024-iTV1
-https://7pal.short.gy/itv1en
-#EXTINF:-1 tvg-id="beIN_SPORTS_MAX1_DIGITAL_Mono.bein" tvg-logo="https://prod-media.beinsports.com/image/1113d7a76ffceca1bb350bfe145467c6.128.png" group-title="UEFA_EURO_2024",EURO2024-beIN_Sports_Max1
-https://7pal.short.gy/binmax1
-#EXTINF:-1 tvg-id="beIN_SPORTS_MAX2_DIGITAL_Mono_EN.bein" tvg-logo="https://prod-media.beinsports.com/image/a38b16173474ba8b1a95bcbc30d3b8a5.128.png" group-title="UEFA_EURO_2024",EURO2024-beIN_Sports_Max2
-https://7pal.short.gy/binmax2
-#EXTINF:-1 tvg-id="beIN_SPORTS_MAX3_DIGITAL_Mono_EN.bein" tvg-logo="https://prod-media.beinsports.com/image/dc1913d422398c25c5f0b81cab94cc87.128.png" group-title="UEFA_EURO_2024",EURO2024-beIN_Sports_Max3
-https://7pal.short.gy/binmax3
-#EXTINF:-1 tvg-id="EPL.za" tvg-logo="https://images.supersport.com/media/yvuloxza/premier-league-1.png" group-title="UEFA_EURO_2024", EURO2024-Supersport_PL-FHD
-https://7pal.short.gy/spersppl
-#EXTINF:-1 tvg-id="The.Sports.Network.HDTV.(TSNHD).ca" tvg-logo="https://i.imgur.com/HsolYfq.png" group-title="UEFA_EURO_2024", EURO2024-TSN1-FHD
-https://7pal.short.gy/tsn1ca
-
 #EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="Sports",SkySports_MainEventUHD
 https://7pal.short.gy/SSMEuhd
 #EXTINF:-1 tvg-id="Astro.SuperSport.UHD.1.my" tvg-logo="https://i.imgur.com/LIxOI3U.png" group-title="Sports",AstroSuperSportUHD
