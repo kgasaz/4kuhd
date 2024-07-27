@@ -4,6 +4,16 @@
 #EXTM3U Disclaimer: Links were collected by the bot on the internet like Google did. For legal issues, please contact appropriate media file owners/hosters.
 #EXTINF:-1 tvg-id="intro" tvg-logo="https://i.imgur.com/3XIe0au.png" group-title="Sports",🌍 Intro 🌍
 https://7pal.short.gy/intro
+
+#EXTINF:-1 tvg-id="USA.Network.HDTV.(East).(USAHD).us" tvg-logo="https://i.imgur.com/PD1qeRO.jpg" group-title="Olympic Paris 2024", USA_NetWork
+https://7pal.short.gy/usanetwork
+#EXTINF:-1 tvg-id="BBC.One.EastHD.uk" tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2022-12/BBC_One_2022_0.png" group-title="Olympic Paris 2024", BBC_Olympic
+https://7pal.short.gy/bbcone
+#EXTINF:-1 tvg-id="Eurosport.1.HD.uk" tvg-logo="https://media.info/i/lf/300/1447433721/1065.png" group-title="Olympic Paris 2024", Eurosport1_EN
+https://7pal.short.gy/eusport1
+#EXTINF:-1 tvg-id="Eurosport.2.HD.uk" tvg-logo="https://media.info/i/lf/300/1447433758/1150.png" group-title="Olympic Paris 2024", Eurosport2_EN
+https://7pal.short.gy/eusport2
+
 #EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="Sports",SkySports_MainEventUHD
 https://7pal.short.gy/SSMEuhd
 #EXTINF:-1 tvg-id="Astro.SuperSport.UHD.1.my" tvg-logo="https://i.imgur.com/LIxOI3U.png" group-title="Sports",AstroSuperSportUHD
