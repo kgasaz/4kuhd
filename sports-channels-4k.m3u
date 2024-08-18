@@ -5,20 +5,6 @@
 #EXTINF:-1 tvg-id="intro" tvg-logo="https://i.imgur.com/3XIe0au.png" group-title="Sports",🌍 Intro 🌍
 https://7pal.short.gy/intro
 
-#EXTINF:-1 tvg-id="USA.Network.HDTV.(East).(USAHD).us" tvg-logo="https://i.imgur.com/PD1qeRO.jpg" group-title="Olympic Paris 2024", USA_NetWork
-https://7pal.short.gy/usanetwork
-#EXTINF:-1 tvg-id="BBC.One.EastHD.uk" tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2022-12/BBC_One_2022_0.png" group-title="Olympic Paris 2024", BBC_Olympic
-https://7pal.short.gy/bbcone
-#EXTINF:-1 tvg-id="Eurosport.1.HD.uk" tvg-logo="https://media.info/i/lf/300/1447433721/1065.png" group-title="Olympic Paris 2024", Eurosport1_EN
-https://7pal.short.gy/eusport1
-#EXTINF:-1 tvg-id="Eurosport.2.HD.uk" tvg-logo="https://media.info/i/lf/300/1447433758/1150.png" group-title="Olympic Paris 2024", Eurosport2_EN
-https://7pal.short.gy/eusport2
-#EXTINF:-1 tvg-id="SKY.Sport.Popup.1.nz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/SkySportLogo2019.png/revision/latest?cb=20210619015201" group-title="Olympic Paris 2024", SkySport_PopUp1_NZ
-https://7pal.short.gy/skypu1nz
-#EXTINF:-1 tvg-id="SKY.Sport.3.nz" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_3_logo_stack_rgb.png" group-title="Olympic Paris 2024", SkySport3_NZ
-https://7pal.short.gy/skyspt3nz
-#EXTINF:-1 tvg-id="CBC.Calgary.HDTV.(CBRTHD).ca" tvg-logo="https://i.cbc.ca/1.4066392.1541713557!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/cbc-logo-horizontal.jpg" group-title="Olympic Paris 2024", CBC_CA
-https://7pal.short.gy/cbcca
 
 #EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="Sports",SkySports_MainEventUHD
 https://7pal.short.gy/SSMEuhd
