@@ -8,7 +8,7 @@ https://7pal.short.gy/intro
 
 #EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="Sports",SkySports_MainEventUHD
 https://7pal.short.gy/SSMEuhd
-#EXTINF:-1 tvg-id="Astro.SuperSport.UHD.1.my" tvg-logo="https://i.imgur.com/3cW86E5.png" group-title="Sports",Astro_Sports-UHD
+#EXTINF:-1 tvg-id="Astro.Sports.UHD.my" tvg-logo="https://i.imgur.com/3cW86E5.png" group-title="Sports",Astro_Sports-UHD
 https://7pal.short.gy/astrouhd
 #EXTINF:-1 tvg-id="4k_DIGITAL_Mono_EN.bein" tvg-logo="https://i.imgur.com/ZYpUQ3w.png" group-title="Sports",beIN4k
 https://7pal.short.gy/bein-uhd
@@ -114,13 +114,13 @@ https://7pal.short.gy/fox505au
 https://7pal.short.gy/fox506au
 #EXTINF:-1 tvg-id="FoxSports507.au" tvg-logo="https://i.imgur.com/PeDP6zC.png" group-title="Sports", Fox507_AU-FHD
 https://7pal.short.gy/fox507au
-#EXTINF:-1 tvg-id="Astro.SuperSport.HD.my" tvg-logo="https://i.imgur.com/M4nTRLb.png" group-title="Sports", Astro_Premier_League-FHD
+#EXTINF:-1 tvg-id="Astro.Premier.League.my" tvg-logo="https://i.imgur.com/M4nTRLb.png" group-title="Sports", Astro_Premier_League-FHD
 https://7pal.short.gy/astross1
-#EXTINF:-1 tvg-id="Astro.SuperSport.2.HD.my" tvg-logo="https://i.imgur.com/f6hG3Ok.png" group-title="Sports", Astro_Premier_League2-FHD
+#EXTINF:-1 tvg-id="Astro.Premier.League.2.my" tvg-logo="https://i.imgur.com/f6hG3Ok.png" group-title="Sports", Astro_Premier_League2-FHD
 https://7pal.short.gy/astross2
-#EXTINF:-1 tvg-id="Astro.SuperSport.3.HD.my" tvg-logo="https://i.imgur.com/u92HNWn.png" group-title="Sports", Astro_Grandstand-FHD
+#EXTINF:-1 tvg-id="Astro.Grandstand.my" tvg-logo="https://i.imgur.com/u92HNWn.png" group-title="Sports", Astro_Grandstand-FHD
 https://7pal.short.gy/astross3
-#EXTINF:-1 tvg-id="Astro.SuperSport.4.HD.my" tvg-logo="https://i.imgur.com/ixUEirO.png" group-title="Sports", Astro_Football-FHD
+#EXTINF:-1 tvg-id="Astro.Football.my" tvg-logo="https://i.imgur.com/ixUEirO.png" group-title="Sports", Astro_Football-FHD
 https://7pal.short.gy/astross4
 #EXTINF:-1 tvg-id="EPL.za" tvg-logo="https://i.imgur.com/Boxa3qc.png" group-title="Sports", Supersport_Premier_League-FHD
 https://7pal.short.gy/spersppl
