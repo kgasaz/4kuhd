@@ -140,10 +140,12 @@ https://7pal.short.gy/spersprb
 https://7pal.short.gy/sperspgf
 #EXTINF:-1 tvg-id="TENNIS.za" tvg-logo="https://archive.org/download/supersport-tennis/supersport-tennis.png" group-title="Sports", Supersport_Tennis-FHD
 https://7pal.short.gy/spersptns
-#EXTINF:-1 tvg-id="Sportsnet.One.HDTV.(SN1HD).ca" tvg-logo="https://www.rogerssportsandmedia.com/wp-content/uploads/2021/08/Copy-of-Media-Site-2.png" group-title="Sports", Sportsnet ONE
+#EXTINF:-1 tvg-id="Sportsnet.One.HDTV.(SN1HD).ca" tvg-logo="https://www.rogerssportsandmedia.com/wp-content/uploads/2021/08/Copy-of-Media-Site-2.png" group-title="Sports", CA-Sportsnet_ONE
 https://7pal.short.gy/sptsnet1
-#EXTINF:-1 tvg-id="Sportsnet.360.HDTV.(360HD).ca" tvg-logo="https://www.rogerssportsandmedia.com/wp-content/uploads/2021/08/Copy-of-Media-Site-2.png" group-title="Sports", Sportsnet 360
+#EXTINF:-1 tvg-id="Sportsnet.360.HDTV.(360HD).ca" tvg-logo="https://www.rogerssportsandmedia.com/wp-content/uploads/2021/08/Copy-of-Media-Site-2.png" group-title="Sports", CA-Sportsnet_360
 https://7pal.short.gy/sptsnet360
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://ondemo.tmsimg.com/h3/assets/s11182_ll_h3_aa.png" group-title="Sports", CA-TSN1
+https://7pal.short.gy/tsn1ca
 #EXTINF:-1 tvg-id="CBS.Sports.Network.HDTV.(CBSSD).us" tvg-logo="https://i.imgur.com/uo7pHjF.png" group-title="Sports", CBS_Sport_Network
 https://7pal.short.gy/cbssptnw
 #EXTINF:-1 tvg-id="Madison.Square.Garden.HDTV.(MSG.HD).us" tvg-logo="https://i.imgur.com/OLFLQi1.jpg" group-title="Sports", USA:MSG
