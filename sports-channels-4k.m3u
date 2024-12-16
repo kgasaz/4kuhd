@@ -56,12 +56,14 @@ https://7pal.short.gy/ssportsfb
 https://7pal.short.gy/ssportsf1
 #EXTINF:-1 tvg-id="SkySp+.uk" tvg-logo="https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/bltf61726b1ee0de5d4/66857a7ebdc1c3b339ddc0d8/image_(5).png" group-title="Sports", SkySports+FHD
 https://7pal.short.gy/ssportplus
-#EXTINF:-1 tvg-id="SkySp.Tennis.HD.uk" tvg-logo="https://i.imgur.com/1YbopYK.png" group-title="Sports", SkySports_Tennis-FHD
-https://7pal.short.gy/ssportstn
+#EXTINF:-1 tvg-id="SkySp.Cricket.uk" tvg-logo="https://i.imgur.com/IUUrBRn.png" group-title="Sports", SkySports_Criket-FHD
+https://7pal.short.gy/ssportscrk
 #EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-logo="https://i.imgur.com/6h5V23t.png" group-title="Sports", SkySports_Golf-FHD
 https://7pal.short.gy/ssportsgf
 #EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-logo="https://i.imgur.com/I1gtyo7.png" group-title="Sports", SkySports_News-FHD
 https://7pal.short.gy/ssportsnw
+#EXTINF:-1 tvg-id="Sky.Action.HD.uk" tvg-logo="https://i.imgur.com/tXHyBzW.png" group-title="Sports", SkySports_Action-FHD
+https://7pal.short.gy/ssportsat
 #EXTINF:-1 tvg-id="Sky.Action.HD.uk" tvg-logo="https://i.imgur.com/tXHyBzW.png" group-title="Sports", SkySports_Action-FHD
 https://7pal.short.gy/ssportsat
 #EXTINF:-1 tvg-id="SkySpBoxOff.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sky_Sports_Box_Office.png/798px-Sky_Sports_Box_Office.png" group-title="Sports", SkySports_BoxOffice
