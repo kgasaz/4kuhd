@@ -54,6 +54,8 @@ https://7pal.short.gy/ssportspl
 https://7pal.short.gy/ssportsfb
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.imgur.com/vKqGxqV.png" group-title="Sports", SkySports_F1-FHD
 https://7pal.short.gy/ssportsf1
+#EXTINF:-1 tvg-id="SkySp.Tennis.HD.uk" tvg-logo="https://pixvid.org/images/2025/01/21/Sky_Sports_Tennis.png" group-title="Sports", SkySports_Tennis-FHD
+https://7pal.short.gy/ssportstn
 #EXTINF:-1 tvg-id="SkySp+.uk" tvg-logo="https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/bltf61726b1ee0de5d4/66857a7ebdc1c3b339ddc0d8/image_(5).png" group-title="Sports", SkySports+FHD
 https://7pal.short.gy/ssportplus
 #EXTINF:-1 tvg-id="SkySp.Cricket.uk" tvg-logo="https://i.imgur.com/IUUrBRn.png" group-title="Sports", SkySports_Criket-FHD
