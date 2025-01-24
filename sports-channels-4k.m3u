@@ -14,11 +14,11 @@ https://7pal.short.gy/astrouhd
 https://7pal.short.gy/bein-uhd
 #EXTINF:-1 tvg-id="English.-.Now.Sports.4K.1.hk" tvg-logo="https://i.postimg.cc/TP5pTkgg/611-e.png" group-title="Sports | 4K UHD",NowSports1-4k
 https://7pal.short.gy/nowsport4k
-#EXTINF:-1 tvg-id="Hub.Premier.2.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png" group-title="Sports | 4K UHD",HUBPremier2UHD
+#EXTINF:-1 tvg-id="Hub.Premier.2.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png" group-title="Sports | 4K UHD",HUBPremier2UHD
 https://7pal.short.gy/HubP2uhd
 #EXTINF:-1 tvg-id="V.sport.ULTRA.HD.fi" tvg-logo="https://i.imgur.com/J2dnfBZ.png" group-title="Sports | 4K UHD",VSportUltraHD
 https://7pal.short.gy/VSportUHD
-#EXTINF:-1 tvg-id="TNT.Sport.Ultimate.uk" tvg-logo="https://media.info/l/o/5/5824.1689874022.png" group-title="Sports | 4K UHD",TNTSport_Ultimate-4K_HDR
+#EXTINF:-1 tvg-id="TNT.Sports.Ultimate.uk" tvg-logo="https://media.info/l/o/5/5824.1689874022.png" group-title="Sports | 4K UHD",TNTSport_Ultimate-4K_HDR
 https://7pal.short.gy/TNTUltimate
 #EXTINF:-1 tvg-id="Digi.4K.ro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg" group-title="Sports | 4K UHD",Digi4K
 https://7pal.short.gy/digi4k
@@ -34,15 +34,15 @@ https://7pal.short.gy/ZiggoSport
 https://7pal.short.gy/5sport
 #EXTINF:-1 tvg-id="Eurosport.4K.ro" tvg-logo="https://i.imgur.com/APE7FAm.jpg" group-title="Sports | 4K UHD",EuroSport4K 
 https://7pal.short.gy/eusport4k
-#EXTINF:-1 tvg-id="M..LaLiga.UHD.es" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGUH.png" group-title="Sports | 4K UHD",M+LaLigaUHD.es
+#EXTINF:-1 tvg-id="M+.LALIGA.TV.es" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGUH.png" group-title="Sports | 4K UHD",M+LaLigaUHD.es
 https://7pal.short.gy/mplusuhd
 #EXTINF:-1 tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us" tvg-logo="https://i.postimg.cc/CxVDbJrS/nesn.png" group-title="Sports | 4K UHD",NESN_UHD
 https://7pal.short.gy/nesnuhd
 
 --- 📺 Sports | EPL
-#EXTINF:-1 tvg-id="HubPremier.1.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png" group-title="Sports | EPL", HubPremier1-FHD
+#EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png" group-title="Sports | EPL", HubPremier1-FHD
 https://7pal.short.gy/HPremier1
-#EXTINF:-1 tvg-id="Hub.Premier.2.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png" group-title="Sports | EPL", HubPremier2-FHD
+#EXTINF:-1 tvg-id="Hub.Premier.2.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png" group-title="Sports | EPL", HubPremier2-FHD
 https://7pal.short.gy/HPremier2
 #EXTINF:-1 tvg-id="Hub.Premier.3.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png" group-title="Sports | EPL", HubPremier3-FHD
 https://7pal.short.gy/HPremier3
@@ -134,33 +134,33 @@ https://7pal.short.gy/fox507au
 
 
 --- 📺 Sports | CA
-#EXTINF:-1 tvg-id="Sportsnet.One.HDTV.(SN1HD).ca" tvg-logo="https://www.rogerssportsandmedia.com/wp-content/uploads/2021/08/Copy-of-Media-Site-2.png" group-title="Sports | CA", CA-Sportsnet_ONE
+#EXTINF:-1 tvg-id="Sportsnet.One.ca" tvg-logo="https://www.rogerssportsandmedia.com/wp-content/uploads/2021/08/Copy-of-Media-Site-2.png" group-title="Sports | CA", CA-Sportsnet_ONE
 https://7pal.short.gy/sptsnet1
-#EXTINF:-1 tvg-id="Sportsnet.360.HDTV.(360HD).ca" tvg-logo="https://www.rogerssportsandmedia.com/wp-content/uploads/2021/08/Copy-of-Media-Site-2.png" group-title="Sports | CA", CA-Sportsnet_360
+#EXTINF:-1 tvg-id="Sportsnet.360.ca" tvg-logo="https://www.rogerssportsandmedia.com/wp-content/uploads/2021/08/Copy-of-Media-Site-2.png" group-title="Sports | CA", CA-Sportsnet_360
 https://7pal.short.gy/sptsnet360
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://ondemo.tmsimg.com/h3/assets/s11182_ll_h3_aa.png" group-title="Sports | CA", CA-TSN1
 https://7pal.short.gy/tsn1ca
 
 --- 📺 Sports | US
-#EXTINF:-1 tvg-id="CBS.Sports.Network.HDTV.(CBSSD).us" tvg-logo="https://i.imgur.com/uo7pHjF.png" group-title="Sports | US", CBS_Sport_Network
+#EXTINF:-1 tvg-id="CBS.Sports.Network.USA.us" tvg-logo="https://i.imgur.com/uo7pHjF.png" group-title="Sports | US", CBS_Sport_Network
 https://7pal.short.gy/cbssptnw
-#EXTINF:-1 tvg-id="Madison.Square.Garden.HDTV.(MSG.HD).us" tvg-logo="https://i.imgur.com/OLFLQi1.jpg" group-title="Sports | US", USA:MSG
+#EXTINF:-1 tvg-id="MSG.(Madison.Square.Gardens).us" tvg-logo="https://i.imgur.com/OLFLQi1.jpg" group-title="Sports | US", USA:MSG
 https://7pal.short.gy/msgusa
-#EXTINF:-1 tvg-id="The.NFL.Network.HDTV.(NFLHD).us" tvg-logo="https://i.imgur.com/XKBiWym.jpg" group-title="Sports | US", USA:NFL_Network-FHD
+#EXTINF:-1 tvg-id="NFL.Network.us" tvg-logo="https://i.imgur.com/XKBiWym.jpg" group-title="Sports | US", USA:NFL_Network-FHD
 https://7pal.short.gy/nflnw
-#EXTINF:-1 tvg-id="ESPN.HDTV.(Dish).(ESPNHD).us" tvg-logo="https://variety.com/wp-content/uploads/2013/09/espn-logo.jpg" group-title="Sports | US", USA:ESPN-HD
+#EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://variety.com/wp-content/uploads/2013/09/espn-logo.jpg" group-title="Sports | US", USA:ESPN-HD
 https://7pal.short.gy/espnus
-#EXTINF:-1 tvg-id="ESPN2.HDTV.(Dish).(ESPN2HD).us" tvg-logo="https://logowik.com/content/uploads/images/espn24510.jpg" group-title="Sports | US", USA:ESPN2-HD
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-logo="https://logowik.com/content/uploads/images/espn24510.jpg" group-title="Sports | US", USA:ESPN2-HD
 https://7pal.short.gy/espn2
 #EXTINF:-1 tvg-id="WWE.Network.us" tvg-logo="https://i.imgur.com/Nq4lPP4.png" group-title="Sports | US", USA:WWE_Network
 https://7pal.short.gy/wwenw
 #EXTINF:-1 tvg-id="NBA.TV.HDTV.(NBA.HD).us" tvg-logo="https://i.imgur.com/qAT0jSA.png" group-title="Sports | US", USA:NBA_TV
 https://7pal.short.gy/nbatvus
-#EXTINF:-1 tvg-id="MLB.Network.HDTV.(DISH).(MLBHD).us" tvg-logo="https://i.imgur.com/ZGrahiw.png" group-title="Sports | US", USA:MLB_Network
+#EXTINF:-1 tvg-id="MLB.Network.us" tvg-logo="https://i.imgur.com/ZGrahiw.png" group-title="Sports | US", USA:MLB_Network
 https://7pal.short.gy/mlbnw
-#EXTINF:-1 tvg-id="NHL.Network.US.HDTV.(NHLHD).us" tvg-logo="https://media.d3.nhle.com/image/private/t_ratio16_9-size50/prd/lhum6z3hyaga9ahnjow0.png" group-title="Sports | US", USA:NHL_Network
+#EXTINF:-1 tvg-id="NHL.Network.USA.us" tvg-logo="https://media.d3.nhle.com/image/private/t_ratio16_9-size50/prd/lhum6z3hyaga9ahnjow0.png" group-title="Sports | US", USA:NHL_Network
 https://7pal.short.gy/nhlnw
-#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2016/01/ufc-logo-new-red.png" group-title="Sports | US", USA:UFC_24/7
+#EXTINF:-1 tvg-id="The.Fight.Network.(United.States).(TFN).us" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2016/01/ufc-logo-new-red.png" group-title="Sports | US", USA:UFC_24/7
 https://7pal.short.gy/ufc247
 
 
