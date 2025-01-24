@@ -66,7 +66,7 @@ https://7pal.short.gy/usanetwork
 --- 📺 Sports | UK
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://media.info/l/o/1/1539.1690027797.png" group-title="Sports | UK", TNTSports1-FHD
 https://7pal.short.gy/tntspts1
-#EXTINF:-1 tvg-id="TNT.Sports.2.HD.ukk" tvg-logo="https://media.info/l/o/1/1540.1690027877.png" group-title="Sports | UK", TNTSports2-FHD
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://media.info/l/o/1/1540.1690027877.png" group-title="Sports | UK", TNTSports2-FHD
 https://7pal.short.gy/tntspts2
 #EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://media.info/l/o/5/5712.1690027954.png" group-title="Sports | UK", TNTSports3-FHD
 https://7pal.short.gy/tntspts3
@@ -132,30 +132,6 @@ https://7pal.short.gy/fox506au
 #EXTINF:-1 tvg-id="FoxSports507.au" tvg-logo="https://i.imgur.com/PeDP6zC.png" group-title="Sports | AU", Fox507_AU-FHD
 https://7pal.short.gy/fox507au
 
---- 📺 Sports | World
-#EXTINF:-1 tvg-id="Premier.Sports.1.HD.ie" tvg-logo="https://i.imgur.com/YqTCkGk.png" group-title="Sports", PremierSports1-FHD
-https://7pal.short.gy/prsport1
-#EXTINF:-1 tvg-id="Premier.Sports.2.HD.ie" tvg-logo="https://i.imgur.com/RenHhOi.png" group-title="Sports", PremierSports2-FHD
-https://7pal.short.gy/prsport2
-
-#EXTINF:-1 tvg-id="EPL.za" tvg-logo="https://i.imgur.com/Boxa3qc.png" group-title="Sports | World", Supersport_Premier_League-FHD
-https://7pal.short.gy/spersppl
-#EXTINF:-1 tvg-id="FOOTBALL.za" tvg-logo="https://images.supersport.com/media/wx5prn11/football-6.png" group-title="Sports | World", Supersport_Football-FHD
-https://7pal.short.gy/sperspfb
-#EXTINF:-1 tvg-id="LA.LIGA.za" tvg-logo="https://images.supersport.com/media/ngsfbrab/laliga.png" group-title="Sports | World", Supersport_Laliga-FHD
-https://7pal.short.gy/sperspllg
-#EXTINF:-1 tvg-id="PSL.za" tvg-logo="https://images.supersport.com/media/o1qmay0z/psl-1.png" group-title="Sports | World", Supersport_PSL-FHD
-https://7pal.short.gy/spersppsl
-#EXTINF:-1 tvg-id="MOTORSPORT.za" tvg-logo="https://i.imgur.com/WpL99ea.png" group-title="Sports | World", Supersport_Motosport-FHD
-https://7pal.short.gy/sperspmts
-#EXTINF:-1 tvg-id="ACTION.za" tvg-logo="https://images.supersport.com/media/krybzs0y/action-1.png" group-title="Sports | World", Supersport_Action-FHD
-https://7pal.short.gy/sperspat
-#EXTINF:-1 tvg-id="RUGBY.za" tvg-logo="https://images.supersport.com/media/ngeluwwy/rugby-5.png" group-title="Sports | World", Supersport_Rugby-FHD
-https://7pal.short.gy/spersprb
-#EXTINF:-1 tvg-id="GOLF.za" tvg-logo="https://i.imgur.com/YtTDeWW.jpg" group-title="Sports | World", Supersport_Golf-FHD
-https://7pal.short.gy/sperspgf
-#EXTINF:-1 tvg-id="TENNIS.za" tvg-logo="https://archive.org/download/supersport-tennis/supersport-tennis.png" group-title="Sports | World", Supersport_Tennis-FHD
-https://7pal.short.gy/spersptns
 
 --- 📺 Sports | CA
 #EXTINF:-1 tvg-id="Sportsnet.One.HDTV.(SN1HD).ca" tvg-logo="https://www.rogerssportsandmedia.com/wp-content/uploads/2021/08/Copy-of-Media-Site-2.png" group-title="Sports | CA", CA-Sportsnet_ONE
@@ -186,6 +162,32 @@ https://7pal.short.gy/mlbnw
 https://7pal.short.gy/nhlnw
 #EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2016/01/ufc-logo-new-red.png" group-title="Sports | US", USA:UFC_24/7
 https://7pal.short.gy/ufc247
+
+
+--- 📺 Sports | World
+#EXTINF:-1 tvg-id="Premier.Sports.1.HD.ie" tvg-logo="https://i.imgur.com/YqTCkGk.png" group-title="Sports | World", PremierSports1-FHD
+https://7pal.short.gy/prsport1
+#EXTINF:-1 tvg-id="Premier.Sports.2.HD.ie" tvg-logo="https://i.imgur.com/RenHhOi.png" group-title="Sports | World", PremierSports2-FHD
+https://7pal.short.gy/prsport2
+
+#EXTINF:-1 tvg-id="EPL.za" tvg-logo="https://i.imgur.com/Boxa3qc.png" group-title="Sports | World", Supersport_Premier_League-FHD
+https://7pal.short.gy/spersppl
+#EXTINF:-1 tvg-id="FOOTBALL.za" tvg-logo="https://images.supersport.com/media/wx5prn11/football-6.png" group-title="Sports | World", Supersport_Football-FHD
+https://7pal.short.gy/sperspfb
+#EXTINF:-1 tvg-id="LA.LIGA.za" tvg-logo="https://images.supersport.com/media/ngsfbrab/laliga.png" group-title="Sports | World", Supersport_Laliga-FHD
+https://7pal.short.gy/sperspllg
+#EXTINF:-1 tvg-id="PSL.za" tvg-logo="https://images.supersport.com/media/o1qmay0z/psl-1.png" group-title="Sports | World", Supersport_PSL-FHD
+https://7pal.short.gy/spersppsl
+#EXTINF:-1 tvg-id="MOTORSPORT.za" tvg-logo="https://i.imgur.com/WpL99ea.png" group-title="Sports | World", Supersport_Motosport-FHD
+https://7pal.short.gy/sperspmts
+#EXTINF:-1 tvg-id="ACTION.za" tvg-logo="https://images.supersport.com/media/krybzs0y/action-1.png" group-title="Sports | World", Supersport_Action-FHD
+https://7pal.short.gy/sperspat
+#EXTINF:-1 tvg-id="RUGBY.za" tvg-logo="https://images.supersport.com/media/ngeluwwy/rugby-5.png" group-title="Sports | World", Supersport_Rugby-FHD
+https://7pal.short.gy/spersprb
+#EXTINF:-1 tvg-id="GOLF.za" tvg-logo="https://i.imgur.com/YtTDeWW.jpg" group-title="Sports | World", Supersport_Golf-FHD
+https://7pal.short.gy/sperspgf
+#EXTINF:-1 tvg-id="TENNIS.za" tvg-logo="https://archive.org/download/supersport-tennis/supersport-tennis.png" group-title="Sports | World", Supersport_Tennis-FHD
+https://7pal.short.gy/spersptns
 
 
 --- 📺 Sports | Events
