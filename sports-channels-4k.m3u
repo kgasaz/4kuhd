@@ -154,7 +154,7 @@ https://7pal.short.gy/espnus
 https://7pal.short.gy/espn2
 #EXTINF:-1 tvg-id="WWE.Network.us" tvg-logo="https://i.imgur.com/Nq4lPP4.png" group-title="Sports | US", USA:WWE_Network
 https://7pal.short.gy/wwenw
-#EXTINF:-1 tvg-id="NBA.TV.HDTV.(NBA.HD).us" tvg-logo="https://i.imgur.com/qAT0jSA.png" group-title="Sports | US", USA:NBA_TV
+#EXTINF:-1 tvg-id="NBA.TV.USA.us" tvg-logo="https://i.imgur.com/qAT0jSA.png" group-title="Sports | US", USA:NBA_TV
 https://7pal.short.gy/nbatvus
 #EXTINF:-1 tvg-id="MLB.Network.us" tvg-logo="https://i.imgur.com/ZGrahiw.png" group-title="Sports | US", USA:MLB_Network
 https://7pal.short.gy/mlbnw
