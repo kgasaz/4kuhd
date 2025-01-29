@@ -34,7 +34,7 @@ https://7pal.short.gy/ZiggoSport
 https://7pal.short.gy/5sport
 #EXTINF:-1 tvg-id="Eurosport.4K.ro" tvg-logo="https://i.imgur.com/DVSdQFj.png" group-title="Sports | 4K UHD",EuroSport4K 
 https://7pal.short.gy/eusport4k
-#EXTINF:-1 tvg-id="M+.LALIGA.TV.es" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGUH.png" group-title="Sports | 4K UHD",M+LaLigaUHD.es
+#EXTINF:-1 tvg-id="M+.LALIGA.TV.es" tvg-logo="https://i.imgur.com/26c7mQb.png" group-title="Sports | 4K UHD",M+LaLigaUHD.es
 https://7pal.short.gy/mplusuhd
 #EXTINF:-1 tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us" tvg-logo="https://i.postimg.cc/CxVDbJrS/nesn.png" group-title="Sports | 4K UHD",NESN_UHD
 https://7pal.short.gy/nesnuhd
@@ -101,29 +101,29 @@ https://7pal.short.gy/eusport2
 
 
 --- 📺 Sports | NZ
-#EXTINF:-1 tvg-id="SKY.Sport.1.nz" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_1_logo_stack_rgb.png" group-title="Sports | NZ", SkySport1_NZ-FHD
+#EXTINF:-1 tvg-id="SKY.Sport.1.nz" tvg-logo="https://i.postimg.cc/wxDNzRcQ/sky-sport-1.png" group-title="Sports | NZ", SkySport1_NZ-FHD
 https://7pal.short.gy/skyspt1nz
-#EXTINF:-1 tvg-id="SKY.Sport.2.nz" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_2_logo_stack_rgb.png" group-title="Sports | NZ", SkySport2_NZ-FHD
+#EXTINF:-1 tvg-id="SKY.Sport.2.nz" tvg-logo="https://i.postimg.cc/KvFM8c0S/sky_sport_2.png" group-title="Sports | NZ", SkySport2_NZ-FHD
 https://7pal.short.gy/skyspt2nz
-#EXTINF:-1 tvg-id="SKY.Sport.3.nz" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_3_logo_stack_rgb.png" group-title="Sports | NZ", SkySport3_NZ-FHD
+#EXTINF:-1 tvg-id="SKY.Sport.3.nz" tvg-logo="https://i.postimg.cc/L88gjCdx/sky_sport_3.png" group-title="Sports | NZ", SkySport3_NZ-FHD
 https://7pal.short.gy/skyspt3nz
-#EXTINF:-1 tvg-id="SKY.Sport.4.nz" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_4_logo_stack_rgb.png" group-title="Sports | NZ", SkySport4_NZ-FHD
+#EXTINF:-1 tvg-id="SKY.Sport.4.nz" tvg-logo="https://i.postimg.cc/52KYgBbb/sky-sport-4.png" group-title="Sports | NZ", SkySport4_NZ-FHD
 https://7pal.short.gy/skyspt4nz
-#EXTINF:-1 tvg-id="SKY.Sport.5.nz" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_5_logo_stack_rgb.png" group-title="Sports | NZ", SkySport5_NZ-FHD
+#EXTINF:-1 tvg-id="SKY.Sport.5.nz" tvg-logo="https://i.postimg.cc/3wyyckxp/sky_sport_5.png" group-title="Sports | NZ", SkySport5_NZ-FHD
 https://7pal.short.gy/skyspt5nz
-#EXTINF:-1 tvg-id="SKY.Sport.6.nz" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_6_logo_stack_rgb.png" group-title="Sports | NZ", SkySport6_NZ-FHD
+#EXTINF:-1 tvg-id="SKY.Sport.6.nz" tvg-logo="https://i.postimg.cc/LsrqKmJW/sky_sport_6.png" group-title="Sports | NZ", SkySport6_NZ-FHD
 https://7pal.short.gy/skyspt6nz
-#EXTINF:-1 tvg-id="SKY.Sport.7.nz" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_7_logo_stack_rgb.png" group-title="Sports | NZ", SkySport7_NZ-FHD
+#EXTINF:-1 tvg-id="SKY.Sport.7.nz" tvg-logo="https://i.postimg.cc/G2G4b6Ym/sky_sport_7.png" group-title="Sports | NZ", SkySport7_NZ-FHD
 https://7pal.short.gy/skyspt7nz
-#EXTINF:-1 tvg-id="SKY.Sport.8.nz" tvg-logo="https://static.sky.co.nz/sky/channel-logos/Sky_Sport_Premier_League_Channel_Logo.png" group-title="Sports | NZ", SkySport8-PremierLeague_NZ-FHD
+#EXTINF:-1 tvg-id="SKY.Sport.8.nz" tvg-logo="https://i.postimg.cc/PJMNwZSG/Sky-Sport-PL.png" group-title="Sports | NZ", SkySport8-PremierLeague_NZ-FHD
 https://7pal.short.gy/skyspt8nz
 
 --- 📺 Sports | AU
-#EXTINF:-1 tvg-id="FoxLeague.au" tvg-logo="https://origin.go.foxsports.com.au/wp-content/uploads/2017/02/aaaa_log_foxl_a-1.png" group-title="Sports | AU", Fox502_AU-FHD
+#EXTINF:-1 tvg-id="FoxLeague.au" tvg-logo="https://i.imgur.com/7G0lOta.png" group-title="Sports | AU", Fox502_AU-FHD
 https://7pal.short.gy/fox502au
 #EXTINF:-1 tvg-id="FoxSports503.au" tvg-logo="https://i.imgur.com/fndl6gs.png" group-title="Sports | AU", Fox503_AU-FHD
 https://7pal.short.gy/fox503au
-#EXTINF:-1 tvg-id="FoxSports504.au" tvg-logo="https://i.imgur.com/zFvtXJ5.png" group-title="Sports | AU", Fox504_AU-FHD
+#EXTINF:-1 tvg-id="FoxSports504.au" tvg-logo="https://i.imgur.com/0tZxstM.png" group-title="Sports | AU", Fox504_AU-FHD
 https://7pal.short.gy/fox504au
 #EXTINF:-1 tvg-id="FoxSports505.au" tvg-logo="https://i.imgur.com/pnrLdcb.png" group-title="Sports | AU", Fox505_AU-FHD
 https://7pal.short.gy/fox505au
@@ -134,11 +134,11 @@ https://7pal.short.gy/fox507au
 
 
 --- 📺 Sports | CA
-#EXTINF:-1 tvg-id="Sportsnet.One.ca" tvg-logo="https://www.rogerssportsandmedia.com/wp-content/uploads/2021/08/Copy-of-Media-Site-2.png" group-title="Sports | CA", CA-Sportsnet_ONE
+#EXTINF:-1 tvg-id="Sportsnet.One.ca" tvg-logo="https://i.imgur.com/ttlElcO.png" group-title="Sports | CA", CA-Sportsnet_ONE
 https://7pal.short.gy/sptsnet1
-#EXTINF:-1 tvg-id="Sportsnet.360.ca" tvg-logo="https://www.rogerssportsandmedia.com/wp-content/uploads/2021/08/Copy-of-Media-Site-2.png" group-title="Sports | CA", CA-Sportsnet_360
+#EXTINF:-1 tvg-id="Sportsnet.360.ca" tvg-logo="https://i.imgur.com/oKnzVLr.png" group-title="Sports | CA", CA-Sportsnet_360
 https://7pal.short.gy/sptsnet360
-#EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://ondemo.tmsimg.com/h3/assets/s11182_ll_h3_aa.png" group-title="Sports | CA", CA-TSN1
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://i.imgur.com/VUPAGWN.png" group-title="Sports | CA", CA-TSN1
 https://7pal.short.gy/tsn1ca
 
 --- 📺 Sports | US
@@ -158,9 +158,9 @@ https://7pal.short.gy/wwenw
 https://7pal.short.gy/nbatvus
 #EXTINF:-1 tvg-id="MLB.Network.us" tvg-logo="https://i.imgur.com/ZGrahiw.png" group-title="Sports | US", USA:MLB_Network
 https://7pal.short.gy/mlbnw
-#EXTINF:-1 tvg-id="NHL.Network.USA.us" tvg-logo="https://media.d3.nhle.com/image/private/t_ratio16_9-size50/prd/lhum6z3hyaga9ahnjow0.png" group-title="Sports | US", USA:NHL_Network
+#EXTINF:-1 tvg-id="NHL.Network.USA.us" tvg-logo="https://i.imgur.com/tx3IEJV.png" group-title="Sports | US", USA:NHL_Network
 https://7pal.short.gy/nhlnw
-#EXTINF:-1 tvg-id="The.Fight.Network.(United.States).(TFN).us" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2016/01/ufc-logo-new-red.png" group-title="Sports | US", USA:UFC_24/7
+#EXTINF:-1 tvg-id="The.Fight.Network.(United.States).(TFN).us" tvg-logo="https://i.imgur.com/74er6Jm.png" group-title="Sports | US", USA:UFC_24/7
 https://7pal.short.gy/ufc247
 
 
@@ -186,7 +186,7 @@ https://7pal.short.gy/sperspat
 https://7pal.short.gy/spersprb
 #EXTINF:-1 tvg-id="GOLF.za" tvg-logo="https://i.imgur.com/YtTDeWW.jpg" group-title="Sports | World", Supersport_Golf-FHD
 https://7pal.short.gy/sperspgf
-#EXTINF:-1 tvg-id="TENNIS.za" tvg-logo="https://archive.org/download/supersport-tennis/supersport-tennis.png" group-title="Sports | World", Supersport_Tennis-FHD
+#EXTINF:-1 tvg-id="TENNIS.za" tvg-logo="hhttps://i.imgur.com/SfYpvJj.png" group-title="Sports | World", Supersport_Tennis-FHD
 https://7pal.short.gy/spersptns
 
 
