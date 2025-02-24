@@ -134,12 +134,23 @@ https://7pal.short.gy/fox507au
 
 
 --- 📺 Sports | CA
-#EXTINF:-1 tvg-id="Sportsnet.One.ca" tvg-logo="https://i.imgur.com/ttlElcO.png" group-title="Sports | CA", CA-Sportsnet_ONE
+#EXTINF:-1 tvg-id="Sportsnet.One.ca" tvg-logo="https://i.imgur.com/ttlElcO.png" group-title="Sports | CA", Sportsnet ONE
 https://7pal.short.gy/sptsnet1
-#EXTINF:-1 tvg-id="Sportsnet.360.ca" tvg-logo="https://i.imgur.com/oKnzVLr.png" group-title="Sports | CA", CA-Sportsnet_360
+#EXTINF:-1 tvg-id="Sportsnet.360.ca" tvg-logo="https://i.imgur.com/oKnzVLr.png" group-title="Sports | CA", Sportsnet 360
 https://7pal.short.gy/sptsnet360
-#EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://i.imgur.com/VUPAGWN.png" group-title="Sports | CA", CA-TSN1
+#EXTINF:-1 tvg-id="Sportsnet.(Ontario).ca" tvg-logo="https://i.imgur.com/UDfhP02.png" group-title="Sports | CA", Sportsnet Ontario
+https://7pal.short.gy/sptsneton
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://i.imgur.com/VUPAGWN.png" group-title="Sports | CA", TSN1
 https://7pal.short.gy/tsn1ca
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-logo="https://i.imgur.com/SWscg4w.png" group-title="Sports | CA", TSN2
+https://7pal.short.gy/tsn2ca
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-logo="https://i.imgur.com/KBQSJxA.png" group-title="Sports | CA", TSN3
+https://7pal.short.gy/tsn3ca
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-logo="https://i.imgur.com/ofAoWIg.png" group-title="Sports | CA", TSN4
+https://7pal.short.gy/tsn4ca
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-logo="https://i.imgur.com/6M4zAci.png" group-title="Sports | CA", TSN5
+https://7pal.short.gy/tsn5ca
+
 
 --- 📺 Sports | US
 #EXTINF:-1 tvg-id="CBS.Sports.Network.USA.us" tvg-logo="https://i.imgur.com/uo7pHjF.png" group-title="Sports | US", CBS Sport Network
