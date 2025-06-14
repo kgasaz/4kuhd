@@ -5,6 +5,16 @@
 #EXTINF:-1 tvg-id="Info.Guide.Dummy.us" tvg-logo="https://i.imgur.com/3XIe0au.png" group-title="",🌍 Intro 🌍
 https://7pal.short.gy/intro
 
+
+--- 📺 2025 FIFA Club World Cup
+#EXTINF:-1 tvg-id="Channel.5.HD.uk" tvg-logo="https://i.imgur.com/kqCD7T7.png" group-title="2025 FIFA Club World Cup",UK | Channel 5
+https://7pal.short.gy/chan5uk
+#EXTINF:-1 tvg-id="TNT.-.Eastern.Feed.us" tvg-logo="https://i.imgur.com/WYx6EPM.png" group-title="2025 FIFA Club World Cup",US | TNT
+https://7pal.short.gy/tntus
+#EXTINF:-1 tvg-id="truTV.USA.-.Eastern.us" tvg-logo="https://i.imgur.com/r0pE4NJ.png" group-title="2025 FIFA Club World Cup",US | truTV
+https://7pal.short.gy/trutvus
+
+
 --- 📺 Sports | 4K UHD
 #EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/zzeXXYF.png" group-title="Sports | 4K UHD",Sky Sports Main Event UHD
 https://7pal.short.gy/SSMEuhd
