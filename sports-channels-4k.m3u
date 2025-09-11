@@ -48,7 +48,7 @@ https://7pal.short.gy/HPremier3
 https://7pal.short.gy/nowhkp1
 #EXTINF:-1 tvg-id="Now.Sports.Premier.League.2.hk" tvg-logo="https://i.imgur.com/Gr1qxbC.png" group-title="Sports | EPL", Now Sports PremierLeague 2 FHD
 https://7pal.short.gy/nowhkp2
-#EXTINF:-1 tvg-id="Now.Sports.Premier.League.3.hk" tvg-logo="https://i.imgur.com/kKFsIHz.png" group-title="Sports | EPL", Now Sports Premier eague 3-FHD
+#EXTINF:-1 tvg-id="Now.Sports.Premier.League.3.hk" tvg-logo="https://i.imgur.com/kKFsIHz.png" group-title="Sports | EPL", Now Sports Premier League 3 FHD
 https://7pal.short.gy/nowhkp3
 #EXTINF:-1 tvg-id="Astro.Premier.League.my" tvg-logo="https://i.imgur.com/M4nTRLb.png" group-title="Sports | EPL", Astro Premier League FHD
 https://7pal.short.gy/astross1
@@ -84,11 +84,11 @@ https://7pal.short.gy/ssportstn
 https://7pal.short.gy/ssportplus
 #EXTINF:-1 tvg-id="SkySp.Cricket.uk" tvg-logo="https://i.imgur.com/ZXq4kGB.png" group-title="Sports | UK", Sky Sports Criket FHD
 https://7pal.short.gy/ssportscrk
-#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-logo="https://i.imgur.com/RKUHQi8.png" group-title="Sports | UK", Sky Sports Golf- FHD
+#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-logo="https://i.imgur.com/RKUHQi8.png" group-title="Sports | UK", Sky Sports Golf FHD
 https://7pal.short.gy/ssportsgf
 #EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-logo="https://i.imgur.com/buUigAI.png" group-title="Sports | UK", Sky Sports News-FHD
 https://7pal.short.gy/ssportsnw
-#EXTINF:-1 tvg-id="SkySp.ActionHD.uk" tvg-logo="https://i.imgur.com/i1yzHZj.png" group-title="Sports | UK", Sky Sports Action-FHD
+#EXTINF:-1 tvg-id="SkySp.ActionHD.uk" tvg-logo="https://i.imgur.com/i1yzHZj.png" group-title="Sports | UK", Sky Sports Action FHD
 https://7pal.short.gy/ssportsat
 #EXTINF:-1 tvg-id="SkySpBoxOff.uk" tvg-logo="https://pixvid.org/images/2025/01/23/ssports-bo.png" group-title="Sports | UK", Sky Sports Box Office
 https://7pal.short.gy/ssportsbo
@@ -185,9 +185,9 @@ https://7pal.short.gy/fs1us
 https://7pal.short.gy/fs2us
 
 --- 📺 Sports | World
-#EXTINF:-1 tvg-id="Premier.Sports.1.HD.ie" tvg-logo="https://i.imgur.com/1Ob8v6K.png" group-title="Sports | World", PremierSports1-FHD
+#EXTINF:-1 tvg-id="Premier.Sports.1.HD.ie" tvg-logo="https://i.imgur.com/1Ob8v6K.png" group-title="Sports | World", Premier Sports 1 FHD
 https://7pal.short.gy/prsport1
-#EXTINF:-1 tvg-id="Premier.Sports.2.HD.ie" tvg-logo="https://i.imgur.com/IwezEnz.png" group-title="Sports | World", PremierSports2-FHD
+#EXTINF:-1 tvg-id="Premier.Sports.2.HD.ie" tvg-logo="https://i.imgur.com/IwezEnz.png" group-title="Sports | World", Premier Sports 2 FHD
 https://7pal.short.gy/prsport2
 
 #EXTINF:-1 tvg-id="Ziggo.Sport.nl" tvg-logo="https://i.imgur.com/jVI5bge.png" group-title="Sports | World",Ziggo Sport FHD
@@ -202,4 +202,5 @@ https://7pal.short.gy/event2
 https://7pal.short.gy/event3
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Sports | Events", Event 4
 https://7pal.short.gy/event4
+
 
