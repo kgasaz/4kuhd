@@ -5,39 +5,39 @@
 #EXTINF:-1 tvg-id="Info.Guide.Dummy.us" tvg-logo="https://i.imgur.com/3XIe0au.png" group-title="",🌍 Intro 🌍
 https://7pal.short.gy/intro
 
---- 📺 Sports | 4K UHD
+--- ⚽ Sports | 4K UHD
 #EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/zzeXXYF.png" group-title="Sports | 4K UHD",Sky Sports Main Event UHD
 https://7pal.short.gy/SSMEuhd
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.imgur.com/9wrgXyy.png" group-title="Sports | 4K UHD",Sky Sports F1 UHD
+https://7pal.short.gy/SSF1uhd
 #EXTINF:-1 tvg-id="Astro.Sports.UHD.my" tvg-logo="https://i.imgur.com/3cW86E5.png" group-title="Sports | 4K UHD",Astro Sports UHD
 https://7pal.short.gy/astrouhd
-#EXTINF:-1 tvg-id="4k_DIGITAL_Mono_EN.bein" tvg-logo="https://i.imgur.com/eb3S5pZ.png" group-title="Sports | 4K UHD",beIN 4K
-https://7pal.short.gy/bein-uhd
+#EXTINF:-1 tvg-id="TNT.Sports.Ultimate.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/13fost1689746391.png" group-title="Sports | 4K UHD",TNT Sports Ultimate
+https://7pal.short.gy/TNTUltimate
 #EXTINF:-1 tvg-id="Now.Sports.4K.1.hk" tvg-logo="https://i.postimg.cc/TP5pTkgg/611-e.png" group-title="Sports | 4K UHD",Now Sports 1 4k
 https://7pal.short.gy/nowsport4k
 #EXTINF:-1 tvg-id="Hub.Premier.2.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png" group-title="Sports | 4K UHD",Hub Premier 2 UHD
 https://7pal.short.gy/HubP2uhd
 #EXTINF:-1 tvg-id="V.sport.ULTRA.HD.fi" tvg-logo="https://i.imgur.com/Q2qDLpV.png" group-title="Sports | 4K UHD",V Sport UltraHD
 https://7pal.short.gy/VSportUHD
-#EXTINF:-1 tvg-id="TNT.Sports.Ultimate.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/13fost1689746391.png" group-title="Sports | 4K UHD",TNT Sport Ultimate
-https://7pal.short.gy/TNTUltimate
-#EXTINF:-1 tvg-id="Eleven.Sports.1.4K.pl" tvg-logo="https://i.imgur.com/PUaJPaE.png" group-title="Sports | 4K UHD",ElevenSport1 4K
-https://7pal.short.gy/11sports1
-#EXTINF:-1 tvg-id="Prima.4K.ro" tvg-logo="https://i.imgur.com/TrumXXV.png" group-title="Sports | 4K UHD",Prima4K
-https://7pal.short.gy/prima4k
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.imgur.com/9wrgXyy.png" group-title="Sports | 4K UHD",Sky Sports F1 UHD
-https://7pal.short.gy/SSF1uhd
-#EXTINF:-1 tvg-id="Ziggo.Sport.nl" tvg-logo="https://i.imgur.com/jVI5bge.png" group-title="Sports | 4K UHD",Ziggo Sport UHD
-https://7pal.short.gy/ZiggoSport
-#EXTINF:-1 tvg-id="Sport.5.4K.il" tvg-logo="https://pixvid.org/images/2025/01/23/Sport5.png" group-title="Sports | 4K UHD",Sport5_4k
-https://7pal.short.gy/5sport
-#EXTINF:-1 tvg-id="Eurosport.4K.ro" tvg-logo="https://i.imgur.com/DVSdQFj.png" group-title="Sports | 4K UHD",EuroSport 4K 
-https://7pal.short.gy/eusport4k
-#EXTINF:-1 tvg-id="M+.LALIGA.TV.es" tvg-logo="https://i.imgur.com/26c7mQb.png" group-title="Sports | 4K UHD",M+LaLiga UHD 
-https://7pal.short.gy/mplusuhd
+#EXTINF:-1 tvg-id="4k_DIGITAL_Mono_EN.bein" tvg-logo="https://i.imgur.com/eb3S5pZ.png" group-title="Sports | 4K UHD",beIN 4K
+https://7pal.short.gy/bein-uhd
 #EXTINF:-1 tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us" tvg-logo="https://i.postimg.cc/CxVDbJrS/nesn.png" group-title="Sports | 4K UHD",NESN UHD
 https://7pal.short.gy/nesnuhd
+#EXTINF:-1 tvg-id="Eleven.Sports.1.4K.pl" tvg-logo="https://i.imgur.com/PUaJPaE.png" group-title="Sports | 4K UHD",ElevenSport1 4K
+https://7pal.short.gy/11sports1
+#EXTINF:-1 tvg-id="Prima.4K.ro" tvg-logo="https://i.imgur.com/TrumXXV.png" group-title="Sports | 4K UHD",Prima 4K
+https://7pal.short.gy/prima4k
+#EXTINF:-1 tvg-id="Eurosport.4K.ro" tvg-logo="https://i.imgur.com/DVSdQFj.png" group-title="Sports | 4K UHD",EuroSport 4K 
+https://7pal.short.gy/eusport4k
+#EXTINF:-1 tvg-id="Ziggo.Sport.nl" tvg-logo="https://i.imgur.com/jVI5bge.png" group-title="Sports | 4K UHD",Ziggo Sport UHD
+https://7pal.short.gy/ZiggoSport
+#EXTINF:-1 tvg-id="Sport.5.4K.il" tvg-logo="https://pixvid.org/images/2025/01/23/Sport5.png" group-title="Sports | 4K UHD",Sport5 4K
+https://7pal.short.gy/5sport
 
---- 📺 Sports | EPL
+
+
+--- ⚽ Sports | EPL
 #EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-logo="https://i.imgur.com/ON1gzKM.png" group-title="Sports | EPL", Hub Premier1 FHD
 https://7pal.short.gy/HPremier1
 #EXTINF:-1 tvg-id="Hub.Premier.2.sg" tvg-logo="https://i.imgur.com/fxsOa7l.png" group-title="Sports | EPL", Hub Premier2 FHD
@@ -61,7 +61,7 @@ https://7pal.short.gy/astross4
 #EXTINF:-1 tvg-id="USA.Network.-.East.Feed.us" tvg-logo="https://i.imgur.com/a7ZwpAe.png" group-title="Sports | EPL", USA NetWork FHD
 https://7pal.short.gy/usanetwork
 
---- 📺 Sports | UK
+--- ⚽ Sports | UK
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png" group-title="Sports | UK", TNT Sports 1 FHD
 https://7pal.short.gy/tntspts1
 #EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png" group-title="Sports | UK", TNT Sports 2 FHD
@@ -94,7 +94,7 @@ https://7pal.short.gy/ssportsat
 https://7pal.short.gy/ssportsbo
 
 
---- 📺 Sports | NZ
+--- ⚽ Sports | NZ
 #EXTINF:-1 tvg-id="SKY.Sport.1.nz" tvg-logo="https://i.postimg.cc/wxDNzRcQ/sky-sport-1.png" group-title="Sports | NZ", Sky Sport1 NZ FHD
 https://7pal.short.gy/skyspt1nz
 #EXTINF:-1 tvg-id="SKY.Sport.2.nz" tvg-logo="https://i.postimg.cc/KvFM8c0S/sky_sport_2.png" group-title="Sports | NZ", Sky Sport2 NZ FHD
@@ -112,7 +112,7 @@ https://7pal.short.gy/skyspt7nz
 #EXTINF:-1 tvg-id="SKY.Sport.8.nz" tvg-logo="https://i.postimg.cc/PJMNwZSG/Sky-Sport-PL.png" group-title="Sports | NZ", Sky Sport Premier League FHD
 https://7pal.short.gy/skyspt8nz
 
---- 📺 Sports | AU
+--- ⚽ Sports | AU
 #EXTINF:-1 tvg-id="FoxCricket.au" tvg-logo="https://pixvid.org/images/2025/01/31/Fox501.png" group-title="Sports | AU", Fox Sports 501
 https://7pal.short.gy/fox501au
 #EXTINF:-1 tvg-id="FoxLeague.au" tvg-logo="https://i.imgur.com/7G0lOta.png" group-title="Sports | AU", Fox Sports 502
@@ -129,7 +129,7 @@ https://7pal.short.gy/fox506au
 https://7pal.short.gy/fox507au
 
 
---- 📺 Sports | CA
+--- ⚽ Sports | CA
 #EXTINF:-1 tvg-id="Sportsnet.One.ca" tvg-logo="https://i.imgur.com/ttlElcO.png" group-title="Sports | CA", Sportsnet ONE
 https://7pal.short.gy/sptsnet1
 #EXTINF:-1 tvg-id="Sportsnet.360.ca" tvg-logo="https://i.imgur.com/oKnzVLr.png" group-title="Sports | CA", Sportsnet 360
@@ -148,7 +148,7 @@ https://7pal.short.gy/tsn4ca
 https://7pal.short.gy/tsn5ca
 
 
---- 📺 Sports | US
+--- ⚽ Sports | US
 #EXTINF:-1 tvg-id="CBS.Sports.Network.USA.us" tvg-logo="https://i.imgur.com/uo7pHjF.png" group-title="Sports | US", CBS Sport Network
 https://7pal.short.gy/cbssptnw
 #EXTINF:-1 tvg-id="MSG.(Madison.Square.Gardens).us" tvg-logo="https://i.imgur.com/OLFLQi1.jpg" group-title="Sports | US", MSG
@@ -184,7 +184,7 @@ https://7pal.short.gy/fs1us
 #EXTINF:-1 tvg-id="Fox.Sports.2.us" tvg-logo="https://pixvid.org/images/2025/01/25/fs2.png" group-title="Sports | US", FS 2
 https://7pal.short.gy/fs2us
 
---- 📺 Sports | World
+--- ⚽ Sports | World
 #EXTINF:-1 tvg-id="Premier.Sports.1.HD.ie" tvg-logo="https://i.imgur.com/1Ob8v6K.png" group-title="Sports | World", Premier Sports 1 FHD
 https://7pal.short.gy/prsport1
 #EXTINF:-1 tvg-id="Premier.Sports.2.HD.ie" tvg-logo="https://i.imgur.com/IwezEnz.png" group-title="Sports | World", Premier Sports 2 FHD
@@ -193,7 +193,7 @@ https://7pal.short.gy/prsport2
 #EXTINF:-1 tvg-id="Ziggo.Sport.nl" tvg-logo="https://i.imgur.com/jVI5bge.png" group-title="Sports | World",Ziggo Sport FHD
 https://7pal.short.gy/zigosfhd
 
---- 📺 Sports | Events
+--- ⚽ Sports | Events
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Sports | Events", Event 1
 https://7pal.short.gy/event1
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Sports | Events", Event 2
@@ -202,6 +202,7 @@ https://7pal.short.gy/event2
 https://7pal.short.gy/event3
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Sports | Events", Event 4
 https://7pal.short.gy/event4
+
 
 
 
