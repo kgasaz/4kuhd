@@ -193,13 +193,13 @@ https://7pal.short.gy/prsport2
 #EXTINF:-1 tvg-id="Ziggo.Sport.nl" tvg-logo="https://i.imgur.com/jVI5bge.png" group-title="Sports | World",Ziggo Sport FHD
 https://7pal.short.gy/zigosfhd
 
-#EXTINF:-1 tvg-id="Arena.Sport.1.HD.(RS).rs" tvg-logo="https://i.imgur.com/KwAlO41.png" group-title="Sports | World",Arena Sport 1 FHD
+#EXTINF:-1 tvg-id="Arena.Sport.1.HD.hr" tvg-logo="https://i.imgur.com/KwAlO41.png" group-title="Sports | World",Arena Sport 1 FHD
 https://7pal.short.gy/arenas1
-#EXTINF:-1 tvg-id="Arena.Sport.2.HD.(RS).rs" tvg-logo="https://i.imgur.com/Z4HUQeG.png" group-title="Sports | World",Arena Sport 2 FHD
+#EXTINF:-1 tvg-id="Arena.Sport.2.HD.hr" tvg-logo="https://i.imgur.com/Z4HUQeG.png" group-title="Sports | World",Arena Sport 2 FHD
 https://7pal.short.gy/arenas2
-#EXTINF:-1 tvg-id="Arena.Sport.3.HD.(RS).rs" tvg-logo="https://i.imgur.com/FuHlIKV.png" group-title="Sports | World",Arena Sport 3 FHD
+#EXTINF:-1 tvg-id="Arena.Sport.3.HD.hr" tvg-logo="https://i.imgur.com/FuHlIKV.png" group-title="Sports | World",Arena Sport 3 FHD
 https://7pal.short.gy/arenas3
-#EXTINF:-1 tvg-id="Arena.Sport.4.HD.(RS).rs" tvg-logo="https://i.imgur.com/dEYWW81.png" group-title="Sports | World",Arena Sport 4 FHD
+#EXTINF:-1 tvg-id="Arena.Sport.4.HD.hr" tvg-logo="https://i.imgur.com/dEYWW81.png" group-title="Sports | World",Arena Sport 4 FHD
 https://7pal.short.gy/arenas4
 
 --- ⚽ Sports | Events
@@ -213,6 +213,7 @@ https://7pal.short.gy/event3
 https://7pal.short.gy/event4
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Sports | Events", Event 5
 https://7pal.short.gy/event5
+
 
 
 
