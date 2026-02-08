@@ -5,6 +5,19 @@
 #EXTINF:-1 tvg-id="Info.Guide.Dummy.us" tvg-logo="https://i.imgur.com/3XIe0au.png" group-title="",🌍 Intro 🌍
 https://7pal.short.gy/intro
 
+--- ⚽ Sports | Events
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/Super_Bowl_LX_Logo.svg/2560px-Super_Bowl_LX_Logo.svg.png" group-title="Sports | Events", Event 1: Super Bowl LX - UHD1
+https://7pal.short.gy/event1
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/Super_Bowl_LX_Logo.svg/2560px-Super_Bowl_LX_Logo.svg.png" group-title="Sports | Events", Event 2: Super Bowl LX - UHD2
+https://7pal.short.gy/event2
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/Super_Bowl_LX_Logo.svg/2560px-Super_Bowl_LX_Logo.svg.png" group-title="Sports | Events", Event 3: Super Bowl LX - FHD1
+https://7pal.short.gy/event3
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/Super_Bowl_LX_Logo.svg/2560px-Super_Bowl_LX_Logo.svg.png" group-title="Sports | Events", Event 4: Super Bowl LX - FHD2
+https://7pal.short.gy/event4
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/Super_Bowl_LX_Logo.svg/2560px-Super_Bowl_LX_Logo.svg.png" group-title="Sports | Events", Event 5: Super Bowl LX - HD
+https://7pal.short.gy/event5
+
+
 --- ⚽ Sports | 4K UHD
 #EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/zzeXXYF.png" group-title="Sports | 4K UHD",Sky Sports Main Event UHD
 https://7pal.short.gy/SSMEuhd
@@ -205,17 +218,8 @@ https://7pal.short.gy/arenas3
 #EXTINF:-1 tvg-id="Arena.Sport.4.HD.hr" tvg-logo="https://i.imgur.com/dEYWW81.png" group-title="Sports | World",Arena Sport 4 FHD
 https://7pal.short.gy/arenas4
 
---- ⚽ Sports | Events
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Sports | Events", Event 1
-https://7pal.short.gy/event1
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Sports | Events", Event 2
-https://7pal.short.gy/event2
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Sports | Events", Event 3
-https://7pal.short.gy/event3
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Sports | Events", Event 4
-https://7pal.short.gy/event4
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Sports | Events", Event 5
-https://7pal.short.gy/event5
+
+
 
 
 
